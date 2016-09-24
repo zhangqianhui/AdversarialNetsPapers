@@ -19,4 +19,12 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Generative Visual Manipulation on the Natural Image Manifold] [[Paper]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/eccv16_gvm.pdf)[[Code]](https://github.com/junyanz/iGAN)
 
+#Adversarial Examples
 
+:white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
+
+:white_check_mark: [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images] [[Paper]](https://arxiv.org/abs/1412.1897)
+
+:white_check_mark: [Explaining and Harnessing Adversarial Examples] [[Paper]](http://arxiv.org/abs/1412.6572)
+
+:white_check_mark: [Adversarial examples in the physical world] [[Paper]](http://arxiv.org/abs/1607.02533)
