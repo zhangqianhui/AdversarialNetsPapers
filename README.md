@@ -11,7 +11,7 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)
 
-:white_check_mark: [https://arxiv.org/abs/1512.09300] [[Paper]](https://arxiv.org/abs/1512.09300)
+:white_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)
 
 :white_check_mark: [Adversarial Autoencoders] [[Paper]](http://arxiv.org/abs/1511.05644)[[Code]](https://github.com/musyoku/adversarial-autoencoder)
 
