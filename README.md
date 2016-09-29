@@ -21,6 +21,8 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
 
+:white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)
+
 #Adversarial Examples
 
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
