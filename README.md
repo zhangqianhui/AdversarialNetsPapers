@@ -23,6 +23,10 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)
 
+:white_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)
+
+
+
 #Adversarial Examples
 
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
