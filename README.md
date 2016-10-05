@@ -25,6 +25,7 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)
 
+:white_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network] [[Paper]](https://arxiv.org/abs/1609.04802)
 
 
 #Adversarial Examples
