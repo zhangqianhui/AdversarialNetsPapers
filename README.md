@@ -27,6 +27,9 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network] [[Paper]](https://arxiv.org/abs/1609.04802)
 
+:white_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)(https://github.com/openai/improved-gan)
+
+
 
 #Adversarial Examples
 
