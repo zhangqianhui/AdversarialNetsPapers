@@ -45,5 +45,5 @@ The classical Papers about adversial nets
 
 #Project 
 
-:white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)[[Intro]](A library for benchmarking vulnerability to adversarial examples)
+:white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
 
