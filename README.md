@@ -31,6 +31,10 @@ The classical Papers about adversial nets
 
 :white_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)
 
+:white_check_mark: [Generative Adversarial Text to Image Synthesis] [[Paper]](http://www.scottreed.info/files/nips2016.pdf)[[Code]](https://github.com/reedscot/nips2016)
+
+
+:white_check_mark: [Learning What and Where to Draw] [[Paper]](https://arxiv.org/abs/1605.05396)[[Code]](https://github.com/reedscot/icml2016)
 
 
 #Adversarial Examples
