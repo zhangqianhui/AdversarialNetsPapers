@@ -36,6 +36,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Learning What and Where to Draw] [[Paper]](http://www.scottreed.info/files/nips2016.pdf)[[Code]](https://github.com/reedscot/nips2016)
 
+:white_check_mark: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1606.03657)[[Code]](https://github.com/buriburisuri/supervised_infogan)
+
 
 #Adversarial Examples
 
