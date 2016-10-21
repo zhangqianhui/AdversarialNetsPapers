@@ -38,6 +38,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1606.03657)[[Code]](https://github.com/buriburisuri/supervised_infogan)
 
+:white_check_mark: [Adversarial Training for Sketch Retrieval] [[Paper]](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_55)
+
 
 #Adversarial Examples
 
