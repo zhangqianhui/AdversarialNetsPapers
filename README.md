@@ -4,7 +4,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)
 
-:white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)
+:white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
 
 
 :white_check_mark: [Conditional Generative Adversial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)
