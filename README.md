@@ -40,6 +40,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Adversarial Training for Sketch Retrieval] [[Paper]](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_55)
 
+:white_check_mark: [Generative Image Modeling using Style and Structure Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1603.05631.pdf)[[Code]](https://github.com/xiaolonw/ss-gan)
+
 
 #Adversarial Examples
 
