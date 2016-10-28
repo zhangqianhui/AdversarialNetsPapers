@@ -54,6 +54,13 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Adversarial examples in the physical world] [[Paper]](http://arxiv.org/abs/1607.02533)
 
+
+:white_check_mark: [Universal adversarial perturbations ] [[Paper]](https://arxiv.org/abs/1610.08401)
+
+:white_check_mark: [Robustness of classifiers: from adversarial to random noise ] [[Paper]](https://arxiv.org/abs/1608.08967)
+
+:white_check_mark: [DeepFool: a simple and accurate method to fool deep neural networks] [[Paper]](https://arxiv.org/abs/1511.04599)
+
 #Project 
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
