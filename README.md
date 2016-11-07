@@ -67,5 +67,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [reset-cppn-gan-tensorflow] [[Code]](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)(Using Residual Generative Adversarial Networks and Variational Auto-encoder techniques to produce high resolution images)
 
+#Blogs
+
+:white_check_mark: [1] http://www.inference.vc/
+
 
 
