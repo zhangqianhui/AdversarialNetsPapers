@@ -48,6 +48,10 @@ The classical Papers about adversarial nets
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
 
+:white_check_mark: [Conditional Image Synthesis With Auxiliary Classifier GANs] [[Paper]](https://arxiv.org/abs/1610.09585)(GoogleBrain ICLR 2017)
+
+
+
 #Adversarial Examples
 
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
