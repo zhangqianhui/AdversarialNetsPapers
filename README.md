@@ -51,6 +51,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [Conditional Image Synthesis With Auxiliary Classifier GANs] [[Paper]](https://arxiv.org/abs/1610.09585)[[Code]](https://github.com/buriburisuri/ac-gan)(GoogleBrain ICLR 2017)
 
 
+:white_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
+
 
 #Adversarial Examples
 
@@ -68,6 +70,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [Robustness of classifiers: from adversarial to random noise ] [[Paper]](https://arxiv.org/abs/1608.08967)
 
 :white_check_mark: [DeepFool: a simple and accurate method to fool deep neural networks] [[Paper]](https://arxiv.org/abs/1511.04599)
+
+
 
 #Project 
 
