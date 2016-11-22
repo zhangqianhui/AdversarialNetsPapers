@@ -54,6 +54,9 @@ The classical Papers about adversarial nets
 :white_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
 
 
+:white_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)
+
+
 #Adversarial Examples
 
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
