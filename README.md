@@ -56,9 +56,9 @@ The classical Papers about adversarial nets
 
 ##Video Prediction
 
-:white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
+:white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)(Yann LeCun's paper)
 
-:white_check_mark: [Unsupervised Learning for Physical Interaction through Video Prediction] [[Paper]](https://arxiv.org/abs/1605.07157)
+:white_check_mark: [Unsupervised Learning for Physical Interaction through Video Prediction] [[Paper]](https://arxiv.org/abs/1605.07157)(Ian Goodfellow's paper)
 
 
 #Adversarial Examples
