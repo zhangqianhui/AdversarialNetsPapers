@@ -19,8 +19,6 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Generative Visual Manipulation on the Natural Image Manifold] [[Paper]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/eccv16_gvm.pdf)[[Code]](https://github.com/junyanz/iGAN)
 
-:white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
-
 :white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)
 
 :white_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)
@@ -55,6 +53,12 @@ The classical Papers about adversarial nets
 
 
 :white_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)
+
+##Video Prediction
+
+:white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)
+
+:white_check_mark: [Unsupervised Learning for Physical Interaction through Video Prediction] [[Paper]](https://arxiv.org/abs/1605.07157)
 
 
 #Adversarial Examples
