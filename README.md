@@ -51,7 +51,7 @@ The classical Papers about adversarial nets
 
 ##Conditional adversarial
 
-:white_check_mark: [Conditional Generative Adversial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)
+:white_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)
 
 :white_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
 
@@ -63,6 +63,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)(Yann LeCun's paper)
 
 :white_check_mark: [Unsupervised Learning for Physical Interaction through Video Prediction] [[Paper]](https://arxiv.org/abs/1605.07157)(Ian Goodfellow's paper)
+
+
 
 
 #Adversarial Examples
