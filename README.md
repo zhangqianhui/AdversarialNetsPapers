@@ -106,5 +106,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [1] http://www.inference.vc/
 
+:white_check_mark: [1] http://distill.pub/2016/deconv-checkerboard/
+
+
+
 
 
