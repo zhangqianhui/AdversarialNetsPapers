@@ -16,7 +16,6 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Generative Visual Manipulation on the Natural Image Manifold] [[Paper]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/eccv16_gvm.pdf)[[Code]](https://github.com/junyanz/iGAN)
 
-:white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)
 
 :white_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)
 
@@ -75,6 +74,8 @@ The classical Papers about adversarial nets
 
 
 #GAN Theory
+
+:white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
 
 :white_check_mark: [Mode RegularizedGenerative Adversarial Networks] [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
 
