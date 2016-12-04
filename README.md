@@ -74,7 +74,9 @@ The classical Papers about adversarial nets
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
 
+#GAN Theory
 
+:white_check_mark: [Mode RegularizedGenerative Adversarial Networks] [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
 
 
 #Adversarial Examples
