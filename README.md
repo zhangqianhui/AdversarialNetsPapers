@@ -78,6 +78,7 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Mode RegularizedGenerative Adversarial Networks] [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
 
+:white_check_mark: [Improving Generative Adversarial Networks with Denoising Feature Matching] [[Paper]](https://openreview.net/pdf?id=S1X7nhsxl)[[Code]](https://github.com/hvy/chainer-gan-denoising-feature-matching)(Yoshua Bengio , ICLR 2017)
 
 #Adversarial Examples
 
