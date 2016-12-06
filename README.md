@@ -112,6 +112,12 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [1] http://distill.pub/2016/deconv-checkerboard/
 
+#Other
+
+:white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf(NIPS Goodfellow Slides)
+
+
+
 
 
 
