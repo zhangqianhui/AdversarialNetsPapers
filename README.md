@@ -98,6 +98,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [DeepFool: a simple and accurate method to fool deep neural networks] [[Paper]](https://arxiv.org/abs/1511.04599)
 
+:white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
+
+
 
 
 #Project 
