@@ -101,6 +101,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
 
+:white_check_mark: [2] [[PDF]](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf) (NIPS Goodfellow Slides)
+
 
 
 
@@ -120,7 +122,10 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)
 
-:white_check_mark: [2] [[PDF]](https://nj01ct01.baidupcs.com/file/e239c5e380d1b6ad976f7c03102c51c4?bkt=p3-00008a3e6fb9878d2e0929ac2292e7c0171a&fid=2768594655-250528-1050547543314249&time=1481420267&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-3pnnvohaz4v5oqQtQQS3DKcZfoY%3D&to=njhb&fm=Yan,B,G,t&sta_dx=19793258&sta_cs=5&sta_ft=pdf&sta_ct=0&sta_mt=0&fm2=Yangquan,B,G,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00008a3e6fb9878d2e0929ac2292e7c0171a&sl=71237710&expires=8h&rt=sh&r=470464627&mlogid=8010829951903616421&vuk=271153136&vbdid=1317687264&fin=lecun-20161209-nips-workshop-adversarial-training.pdf&fn=lecun-20161209-nips-workshop-adversarial-training.pdf&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=8010829951903616421&dp-callid=0.1.1&hps=1&csl=224&csign=DzOOFu2dFSiyS9Yuh7r07%2FxwgS4%3D) (NIPS Lecun Slides)
+:white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view) (NIPS Lecun Slides)
+
+
+
 
 
 
