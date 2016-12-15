@@ -87,6 +87,11 @@ The classical Papers about adversarial nets
 :white_check_mark: [Sampling Generative Networks] [[Paper]](https://arxiv.org/abs/1609.04468)[[Code]](https://github.com/dribnet/plat)
 
 
+##3D 
+
+:white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
+
+
 #Adversarial Examples
 
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
@@ -107,6 +112,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
 
 :white_check_mark: [2] [[PDF]](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf) (NIPS Goodfellow Slides)
+
+
 
 
 
