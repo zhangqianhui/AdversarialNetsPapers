@@ -86,6 +86,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Sampling Generative Networks] [[Paper]](https://arxiv.org/abs/1609.04468)[[Code]](https://github.com/dribnet/plat)
 
+:white_check_mark: [Mode Regularized Generative Adversarial Networkss] [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
+
 
 ##3D 
 
