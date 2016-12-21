@@ -8,8 +8,6 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)
 
-:white_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)
-
 :white_check_mark: [Adversarial Autoencoders] [[Paper]](http://arxiv.org/abs/1511.05644)[[Code]](https://github.com/musyoku/adversarial-autoencoder)
 
 :white_check_mark: [Generating images with recurrent adversarial networks] [[Paper]](https://arxiv.org/abs/1602.05110)[[Code]](https://github.com/ofirnachum/sequence_gan)
@@ -92,6 +90,10 @@ The classical Papers about adversarial nets
 ##3D 
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
+
+##Face Generative
+
+:white_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)
 
 
 #Adversarial Examples
