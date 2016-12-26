@@ -71,7 +71,7 @@ The classical Papers about adversarial nets
 
 
 
-##Texture Synthesis
+##Texture Synthesis && style transfer
 
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
