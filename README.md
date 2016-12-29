@@ -65,6 +65,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1612.03242v1.pdf)[[Code]](https://github.com/hanzhanggit/StackGAN)
 
+:white_check_mark: [Learning from Simulated and Unsupervised Images through Adversarial Training] [[Paper]](https://arxiv.org/abs/1612.07828)
+
 
 
 ##Video Prediction
@@ -124,7 +126,6 @@ The classical Papers about adversarial nets
 :white_check_mark: [DeepFool: a simple and accurate method to fool deep neural networks] [[Paper]](https://arxiv.org/abs/1511.04599)
 
 :white_check_mark: [2] [[PDF]](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf) (NIPS Goodfellow Slides)
-
 
 
 
