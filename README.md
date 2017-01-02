@@ -41,6 +41,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Learning from Simulated and Unsupervised Images through Adversarial Training] [[Paper]](https://arxiv.org/abs/1612.07828)（Apple paper）
 
+:white_check_mark: [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks] [[Paper]](https://arxiv.org/pdf/1605.09304v5.pdf)[[Code]](https://github.com/Evolving-AI-Lab/synthesizing)
+
 ##Semantic Segmentation
 
 :white_check_mark: [ Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
