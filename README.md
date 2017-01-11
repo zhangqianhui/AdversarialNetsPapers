@@ -45,6 +45,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)
 
+:white_check_mark: [Context Encoders: Feature Learning by Inpainting] [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/jazzsaxmafia/Inpainting)
+
+
 ##Super-Resolution
 
 :white_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network] [[Paper]](https://arxiv.org/abs/1609.04802)[[Code]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
@@ -55,7 +58,11 @@ The classical Papers about adversarial nets
 
 ##Semantic Segmentation
 
-:white_check_mark: [ Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
+:white_check_mark: [Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
+
+##Object Detection
+
+:white_check_mark: [Perceptual generative adversarial networks for small object detection] [[Paper]]（Submitted）
 
 ##RNN
 
