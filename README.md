@@ -5,6 +5,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the first paper about it)
 
+##Unclassified
 
 :white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
 
