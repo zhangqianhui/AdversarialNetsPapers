@@ -158,9 +158,13 @@ The classical Papers about adversarial nets
 
 #Blogs
 
-:white_check_mark: [1] http://www.inference.vc/
+:white_check_mark: [1](http://www.inference.vc/)
 
-:white_check_mark: [2] http://distill.pub/2016/deconv-checkerboard/
+:white_check_mark: [2](http://distill.pub/2016/deconv-checkerboard/)
+
+:white_check_mark: [3](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)
+
+
 
 #Other
 
