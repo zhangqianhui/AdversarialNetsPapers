@@ -116,6 +116,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
+:white_check_mark: [Unrolled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
+
 
 ##3D 
 
