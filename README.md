@@ -31,8 +31,6 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Generative Adversarial Networks as Variational Training of Energy Based Models] [[Paper]](http://www.mathpubs.com/detail/1611.01799v1/Generative-Adversarial-Networks-as-Variational-Training-of-Energy-Based-Models)(ICLR 2017)
 
-:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
-
 :white_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
 
 :white_check_mark: [Learning from Simulated and Unsupervised Images through Adversarial Training] [[Paper]](https://arxiv.org/abs/1612.07828)[[code]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)（Apple paper）
@@ -115,6 +113,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [Mode Regularized Generative Adversarial Networkss] [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
 
 :white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
+
+:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
 
 ##3D 
