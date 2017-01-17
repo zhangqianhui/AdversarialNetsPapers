@@ -151,6 +151,10 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [2] [[PDF]](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf) (NIPS Goodfellow Slides)
 
+:white_check_mark: [The Limitations of Deep Learning in Adversarial Settings] [[Paper]](https://arxiv.org/abs/1511.07528)
+
+:white_check_mark: [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples] [[Paper]](https://arxiv.org/abs/1602.02697)
+
 
 #Project 
 
