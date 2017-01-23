@@ -184,6 +184,12 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [3](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)
 
+| Author | Adress |
+|---- | ---|----|
+| **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
+| **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
+| **distill** |  [Deconvolution and Image Generation](http://distill.pub/2016/deconv-checkerboard/)  |
+| **yingzhenli** |  [Gan theory](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)  |
 
 
 #Other
