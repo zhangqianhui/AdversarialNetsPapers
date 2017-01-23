@@ -169,6 +169,20 @@ The classical Papers about adversarial nets
 
 #Adversarial Examples
 
+| Title | Paper | Code |
+|---- | ---|----|----|
+| **Intriguing properties of neural networks** |  [Paper](http://arxiv.org/abs/1312.6199)  |[Code]|
+| **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images** |  [Paper](https://arxiv.org/abs/1412.1897)  |[Code]|
+| **Explaining and Harnessing Adversarial Examples** |  [Paper](http://arxiv.org/abs/1412.6572)  |[Code]|
+| **Adversarial examples in the physical world** |  [Paper](http://arxiv.org/abs/1607.02533)  |[Code]|
+| **Universal adversarial perturbations** |  [Paper](https://arxiv.org/abs/1610.08401)  |[Code]|
+| **Robustness of classifiers: from adversarial to random noise** |  [Paper](https://arxiv.org/abs/1608.08967)  |[Code]|
+| **DeepFool: a simple and accurate method to fool deep neural networks** |  [Paper](https://arxiv.org/abs/1511.04599)  |[Code]|
+| **Goodfellow Slides** |  [Paper](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf)  |[Code]|
+| **The Limitations of Deep Learning in Adversarial Settings** |  [Paper](https://arxiv.org/abs/1511.07528)  |[Code](https://github.com/openai/cleverhans/blob/master/tutorials/mnist_tutorial_jsma.md)|
+| **Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples** |  [Paper](https://arxiv.org/abs/1602.02697)  |[Code]|
+
+
 :white_check_mark: [Intriguing properties of neural networks] [[Paper]](http://arxiv.org/abs/1312.6199)
 
 :white_check_mark: [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images] [[Paper]](https://arxiv.org/abs/1412.1897)
