@@ -143,6 +143,29 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
 
+#Project 
+
+:white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
+
+:white_check_mark: [reset-cppn-gan-tensorflow] [[Code]](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)(Using Residual Generative Adversarial Networks and Variational Auto-encoder techniques to produce high resolution images)
+
+:white_check_mark: [HyperGAN] [[Code]](https://github.com/255bits/HyperGAN)(Open source GAN focused on scale and usability)
+
+#Blogs
+
+| Author | Address |
+|---- | ---|----|
+| **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
+| **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
+| **distill** |  [Deconvolution and Image Generation](http://distill.pub/2016/deconv-checkerboard/)  |
+| **yingzhenli** |  [Gan theory](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)  |
+
+
+#Other
+
+:white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[[Chinese Trans]](http://c.m.163.com/news/a/C7UE2MLT0511AQHO.html?spss=newsapp&spsw=1)[[details]](https://arxiv.org/pdf/1701.00160v1.pdf)
+
+:white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
 
 #Adversarial Examples
 
@@ -166,32 +189,6 @@ The classical Papers about adversarial nets
 :white_check_mark: [The Limitations of Deep Learning in Adversarial Settings] [[Paper]](https://arxiv.org/abs/1511.07528) [[Code]](https://github.com/openai/cleverhans/blob/master/tutorials/mnist_tutorial_jsma.md)
 
 :white_check_mark: [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples] [[Paper]](https://arxiv.org/abs/1602.02697)
-
-
-#Project 
-
-:white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
-
-:white_check_mark: [reset-cppn-gan-tensorflow] [[Code]](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)(Using Residual Generative Adversarial Networks and Variational Auto-encoder techniques to produce high resolution images)
-
-:white_check_mark: [HyperGAN] [[Code]](https://github.com/255bits/HyperGAN)(Open source GAN focused on scale and usability)
-
-#Blogs
-------------------------------------------------
-| Author | Address |
-|---- | ---|----|
-| **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
-| **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
-| **distill** |  [Deconvolution and Image Generation](http://distill.pub/2016/deconv-checkerboard/)  |
-| **yingzhenli** |  [Gan theory](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)  |
-
-
-#Other
-----------------------------------
-:white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[[Chinese Trans]](http://c.m.163.com/news/a/C7UE2MLT0511AQHO.html?spss=newsapp&spsw=1)[[details]](https://arxiv.org/pdf/1701.00160v1.pdf)
-
-:white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
-
 
 
 
