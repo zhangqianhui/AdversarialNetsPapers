@@ -177,14 +177,8 @@ The classical Papers about adversarial nets
 :white_check_mark: [HyperGAN] [[Code]](https://github.com/255bits/HyperGAN)(Open source GAN focused on scale and usability)
 
 #Blogs
-
-:white_check_mark: [1](http://www.inference.vc/)
-
-:white_check_mark: [2](http://distill.pub/2016/deconv-checkerboard/)
-
-:white_check_mark: [3](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)
-
-| Author | Adress |
+------------------------------------------------
+| Author | Address |
 |---- | ---|----|
 | **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
 | **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
@@ -193,7 +187,7 @@ The classical Papers about adversarial nets
 
 
 #Other
-
+----------------------------------
 :white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[[Chinese Trans]](http://c.m.163.com/news/a/C7UE2MLT0511AQHO.html?spss=newsapp&spsw=1)[[details]](https://arxiv.org/pdf/1701.00160v1.pdf)
 
 :white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
