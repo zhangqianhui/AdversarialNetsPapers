@@ -132,6 +132,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Unrolled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
 
+:white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
+
 
 ##3D 
 
