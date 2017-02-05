@@ -161,6 +161,7 @@ The classical Papers about adversarial nets
 | **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
 | **distill** |  [Deconvolution and Image Generation](http://distill.pub/2016/deconv-checkerboard/)  |
 | **yingzhenli** |  [Gan theory](http://www.yingzhenli.net/home/blog/?p=421http://www.yingzhenli.net/home/blog/?p=421)  |
+| **OpenAI** |  [Generative model](https://openai.com/blog/generative-models/)  |
 
 
 #Other
