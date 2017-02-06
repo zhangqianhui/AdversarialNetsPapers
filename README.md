@@ -134,6 +134,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
 
+:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
+
+
 
 ##3D 
 
