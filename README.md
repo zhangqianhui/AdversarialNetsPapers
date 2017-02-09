@@ -56,6 +56,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Context Encoders: Feature Learning by Inpainting] [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/jazzsaxmafia/Inpainting)
 
+:white_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
+
 
 ##Super-Resolution
 
