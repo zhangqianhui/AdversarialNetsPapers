@@ -136,6 +136,8 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
 
+:white_check_mark: [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities] [[Paper]](https://arxiv.org/abs/1701.06264)[[Code]](https://github.com/guojunq/lsgan)(The same as WGan)
+
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
 
