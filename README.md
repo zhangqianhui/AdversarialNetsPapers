@@ -1,5 +1,5 @@
 # AdversarialNetsPapers
-The classical Papers about adversarial nets 
+The classical Papers about adversarial nets
 
 ##The First paper
 :white_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
@@ -7,9 +7,7 @@ The classical Papers about adversarial nets
 
 ##Unclassified
 
-:white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
 
-:white_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)
 
 :white_check_mark: [Adversarial Autoencoders] [[Paper]](http://arxiv.org/abs/1511.05644)[[Code]](https://github.com/musyoku/adversarial-autoencoder)
 
@@ -43,7 +41,15 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
-##Ensemble 
+##DCGAN
+
+:white_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)
+
+##LAPGAN
+
+:white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
+
+##Ensemble
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
 
@@ -140,7 +146,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
 
-##3D 
+##3D
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
 
@@ -160,7 +166,7 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.07983v1)
 
-#Project 
+#Project
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
 
@@ -199,10 +205,3 @@ The classical Papers about adversarial nets
 | **Goodfellow Slides** |  [Paper](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf)  |[Code]|
 | **The Limitations of Deep Learning in Adversarial Settings** |  [Paper](https://arxiv.org/abs/1511.07528)  |[Code](https://github.com/openai/cleverhans/blob/master/tutorials/mnist_tutorial_jsma.md)|
 | **Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples** |  [Paper](https://arxiv.org/abs/1602.02697)  |[Code]|
-
-
-
-
-
-
-
