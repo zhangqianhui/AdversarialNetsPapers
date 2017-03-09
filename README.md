@@ -83,12 +83,21 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
+##Training method
+
+:white_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
+
+:white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
+
+
+:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
+
+:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
 ##GAN Theory
 
 :white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
 
-:white_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
 
 :white_check_mark: [Mode RegularizedGenerative Adversarial Networks] [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
 
@@ -98,18 +107,15 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Mode Regularized Generative Adversarial Networkss] [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
 
-:white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
-
-:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
 :white_check_mark: [Unrolled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
 
-:white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
+##GAN based new measure (Exciting Work)
+
+:white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code in pytorch]](https://github.com/martinarjovsky/WassersteinGAN)
+[[code in tensorflow]](https://github.com/Zardinality/WGAN-tensorflow)
 
 :white_check_mark: [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities] [[Paper]](https://arxiv.org/abs/1701.06264)[[Code]](https://github.com/guojunq/lsgan)(The same as WGan)
-
-:white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
-
 
 ##3D
 
