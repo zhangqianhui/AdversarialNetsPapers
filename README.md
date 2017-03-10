@@ -46,6 +46,9 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
 
+##Clustering
+
+:white_check_mark: [Unsupervised Learning Using Generative Adversarial Training And Clustering] [[Paper]](https://openreview.net/forum?id=SJ8BZTjeg&noteId=SJ8BZTjeg)[[Code]](https://github.com/VittalP/UnsupGAN)(ICLR)
 ##Image Inpainting
 
 :white_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)
