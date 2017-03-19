@@ -176,7 +176,6 @@ The classical Papers about adversarial nets
 :white_check_mark: [HyperGAN] [[Code]](https://github.com/255bits/HyperGAN)(Open source GAN focused on scale and usability)
 
 #Blogs
-
 | Author | Address |
 |---- | ---|----|
 | **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
@@ -191,25 +190,6 @@ The classical Papers about adversarial nets
 :white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[[Chinese Trans]](http://c.m.163.com/news/a/C7UE2MLT0511AQHO.html?spss=newsapp&spsw=1)[[details]](https://arxiv.org/pdf/1701.00160v1.pdf)
 
 :white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
-
-#Adversarial Examples
-
-| Title | Paper | Code |
-|---- | ---|----|----|
-| **Intriguing properties of neural networks** |  [Paper](http://arxiv.org/abs/1312.6199)  |[Code]|
-| **Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images** |  [Paper](https://arxiv.org/abs/1412.1897)  |[Code]|
-| **Explaining and Harnessing Adversarial Examples** |  [Paper](http://arxiv.org/abs/1412.6572)  |[Code]|
-| **Adversarial examples in the physical world** |  [Paper](http://arxiv.org/abs/1607.02533)  |[Code]|
-| **Universal adversarial perturbations** |  [Paper](https://arxiv.org/abs/1610.08401)  |[Code]|
-| **Robustness of classifiers: from adversarial to random noise** |  [Paper](https://arxiv.org/abs/1608.08967)  |[Code]|
-| **DeepFool: a simple and accurate method to fool deep neural networks** |  [Paper](https://arxiv.org/abs/1511.04599)  |[Code]|
-| **Goodfellow Slides** |  [Paper](http://www.iangoodfellow.com/slides/2016-12-9-AT.pdf)  |[Code]|
-| **The Limitations of Deep Learning in Adversarial Settings** |  [Paper](https://arxiv.org/abs/1511.07528)  |[Code](https://github.com/openai/cleverhans/blob/master/tutorials/mnist_tutorial_jsma.md)|
-| **Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples** |  [Paper](https://arxiv.org/abs/1602.02697)  |[Code]|
-
-
-
-
 
 
 
