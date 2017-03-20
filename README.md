@@ -82,10 +82,10 @@ The classical Papers about adversarial nets
 :white_check_mark: [Perceptual generative adversarial networks for small object detection] [[Paper]]（Submitted）
 
 :white_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)(CVPR2017)
+
 ##RNN
 
 :white_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
-
 
 ##Conditional adversarial
 
