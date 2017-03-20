@@ -1,12 +1,12 @@
 # AdversarialNetsPapers
 The classical Papers about adversarial nets 
 
-##The First paper
-
+The First paper
+--------------------------------------------
 :white_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the first paper about it)
 
-##Unclassified
+## Unclassified
 
 :white_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
 
@@ -44,11 +44,11 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
-##Ensemble 
+## Ensemble 
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
 
-##Clustering
+## Clustering
 
 :white_check_mark: [Unsupervised Learning Using Generative Adversarial Training And Clustering] [[Paper]](https://openreview.net/forum?id=SJ8BZTjeg&noteId=SJ8BZTjeg)[[Code]](https://github.com/VittalP/UnsupGAN)(ICLR)
 ##Image Inpainting
@@ -60,7 +60,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
 
 
-##Super-Resolution
+## Super-Resolution
 
 :white_check_mark: [Image super-resolution through deep learning ][[Code]](https://github.com/david-gpu/srez)(Just for face dataset)
 
@@ -69,7 +69,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [EnhanceGAN] [[Docs]](https://medium.com/@richardherbert/faces-from-noise-super-enhancing-8x8-images-with-enhancegan-ebda015bb5e0#.io6pskvin)[[Code]]
 
 
-##Disocclusion
+## Disocclusion
 
 :white_check_mark: [Robust LSTM-Autoencoders for Face De-Occlusion in the Wild] [[Paper]](https://arxiv.org/abs/1612.08534)
 
@@ -77,17 +77,17 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
 
-##Object Detection
+## Object Detection
 
 :white_check_mark: [Perceptual generative adversarial networks for small object detection] [[Paper]]（Submitted）
 
 :white_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)(CVPR2017)
 
-##RNN
+## RNN
 
 :white_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
 
-##Conditional adversarial
+## Conditional adversarial
 
 :white_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)
 
@@ -108,7 +108,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)
 
 
-##Video Prediction
+## Video Prediction
 
 :white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)(Yann LeCun's paper)
 
@@ -121,7 +121,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
 
-##GAN Theory
+## GAN Theory
 
 :white_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
 
@@ -148,7 +148,7 @@ The classical Papers about adversarial nets
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
 
-##3D 
+## 3D 
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
 
@@ -164,7 +164,7 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)[[Code]](https://github.com/ajbrock/Neural-Photo-Editor)(ICLR 2017)
 
-##For discrete distributions
+## For discrete distributions
 
 :white_check_mark: [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.07983v1)
 
@@ -176,7 +176,7 @@ The classical Papers about adversarial nets
 
 :white_check_mark: [HyperGAN] [[Code]](https://github.com/255bits/HyperGAN)(Open source GAN focused on scale and usability)
 
-#Blogs
+# Blogs
 | Author | Address |
 |---- | ---|----|
 | **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
@@ -186,7 +186,7 @@ The classical Papers about adversarial nets
 | **OpenAI** |  [Generative model](https://openai.com/blog/generative-models/)  |
 
 
-#Other
+# Other
 
 :white_check_mark: [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[[Chinese Trans]](http://c.m.163.com/news/a/C7UE2MLT0511AQHO.html?spss=newsapp&spsw=1)[[details]](https://arxiv.org/pdf/1701.00160v1.pdf)
 
