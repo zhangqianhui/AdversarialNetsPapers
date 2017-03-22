@@ -1,5 +1,5 @@
 # AdversarialNetsPapers
-The classical Papers about adversarial nets 
+The classical Papers about adversarial nets
 
 The First paper
 --------------------------------------------
@@ -44,7 +44,7 @@ The First paper
 
 :white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
-## Ensemble 
+## Ensemble
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
 
@@ -149,7 +149,7 @@ The First paper
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
 
-## 3D 
+## 3D
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
 
@@ -169,7 +169,7 @@ The First paper
 
 :white_check_mark: [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.07983v1)
 
-#Project 
+#Project
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
 
@@ -179,7 +179,7 @@ The First paper
 
 # Blogs
 | Author | Address |
-|---- | ---|----|
+|:----:|:---:|
 | **inFERENCe** |  [Adversarial network](http://www.inference.vc/)  |
 | **inFERENCe** |  [InfoGan](http://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)  |
 | **distill** |  [Deconvolution and Image Generation](http://distill.pub/2016/deconv-checkerboard/)  |
