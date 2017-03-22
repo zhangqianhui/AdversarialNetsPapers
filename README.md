@@ -155,7 +155,7 @@ The First paper
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
 
-##Face Generative and Editing
+## Face Generative and Editing
 
 :white_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)
 
