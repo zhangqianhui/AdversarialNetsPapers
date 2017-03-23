@@ -51,7 +51,9 @@ The First paper
 ## Clustering
 
 :white_check_mark: [Unsupervised Learning Using Generative Adversarial Training And Clustering] [[Paper]](https://openreview.net/forum?id=SJ8BZTjeg&noteId=SJ8BZTjeg)[[Code]](https://github.com/VittalP/UnsupGAN)(ICLR)
-##Image Inpainting
+:white_check_mark: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
+
+## Image Inpainting
 
 :white_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)
 
@@ -73,7 +75,7 @@ The First paper
 
 :white_check_mark: [Robust LSTM-Autoencoders for Face De-Occlusion in the Wild] [[Paper]](https://arxiv.org/abs/1612.08534)
 
-##Semantic Segmentation
+## Semantic Segmentation
 
 :white_check_mark: [Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
 
@@ -117,7 +119,7 @@ The First paper
 
 :white_check_mark: [Generating Videos with Scene Dynamics] [[Paper]](https://arxiv.org/abs/1609.02612)[[Web]](http://web.mit.edu/vondrick/tinyvideo/)[[Code]](https://github.com/cvondrick/videogan)
 
-##Texture Synthesis & style transfer
+## Texture Synthesis & style transfer
 
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
@@ -153,7 +155,7 @@ The First paper
 
 :white_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
 
-##Face Generative and Editing
+## Face Generative and Editing
 
 :white_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)
 
@@ -169,7 +171,7 @@ The First paper
 
 :white_check_mark: [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.07983v1)
 
-#Project
+# Project
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
 
