@@ -61,6 +61,9 @@ The First paper
 
 :white_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
 
+#Joint Probability
+
+:white_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
 
 ## Super-Resolution
 
