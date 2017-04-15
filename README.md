@@ -62,6 +62,8 @@ The First paper
 
 :white_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
 
+:white_check_mark: [Generative face completion] [[Paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit)[[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)(CVPR2017)
+
 ## Joint Probability
 
 :white_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
