@@ -187,6 +187,10 @@ The First paper
 
 :white_check_mark: [GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution] [[Paper]](https://arxiv.org/abs/1611.04051)
 
+## Adversarial Examples
+
+:white_check_mark: [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly] [[Paper]](https://arxiv.org/abs/1704.00103) 
+
 # Project
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
