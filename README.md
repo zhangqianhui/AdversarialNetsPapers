@@ -62,6 +62,8 @@ The First paper
 
 :white_check_mark: [Generative face completion] [[Paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit)[[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)(CVPR2017)
 
+:white_check_mark: [Globally and Locally Consistent Image Completion] [[MainPAGE]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)(SIGGRAPH 2017)
+
 ## Joint Probability
 
 :white_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
