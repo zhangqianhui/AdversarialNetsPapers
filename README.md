@@ -52,6 +52,9 @@ The First paper
 :white_check_mark: [Unsupervised Learning Using Generative Adversarial Training And Clustering] [[Paper]](https://openreview.net/forum?id=SJ8BZTjeg&noteId=SJ8BZTjeg)[[Code]](https://github.com/VittalP/UnsupGAN)(ICLR)
 :white_check_mark: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
 
+## Image blending
+:white_check_mark: [GP-GAN: Towards Realistic High-Resolution Image Blending] [[Paper]](https://arxiv.org/abs/1703.07195)[[Code]](https://github.com/wuhuikai/GP-GAN)
+
 ## Image Inpainting
 
 :white_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)
