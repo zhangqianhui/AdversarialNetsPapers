@@ -90,7 +90,7 @@ The First paper
 
 ## Object Detection
 
-:white_check_mark: [Perceptual generative adversarial networks for small object detection] [[Paper]](CVPR 2017)
+:white_check_mark: [Perceptual generative adversarial networks for small object detection] [[Paper]](https://arxiv.org/abs/1706.05274v2)(CVPR 2017)
 
 :white_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)[[code]](https://github.com/xiaolonw/adversarial-frcnn)(CVPR2017)
 
