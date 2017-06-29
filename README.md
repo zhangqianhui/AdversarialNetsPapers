@@ -86,6 +86,8 @@ The First paper
 
 ## Semantic Segmentation
 
+:white_check_mark: [Adversarial Deep Structural Networks for Mammographic Mass Segmentation] [[Paper]](https://arxiv.org/abs/1612.05970)
+
 :white_check_mark: [Semantic Segmentation using Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.08408)（soumith's paper）
 
 ## Object Detection
