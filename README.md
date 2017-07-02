@@ -167,7 +167,7 @@ The First paper
 
 :white_check_mark: [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
 
-:white_check_mark: [Improved Training of Wasserstein GANs] [[Paper]](https://arxiv.org/abs/1701.06264)[[Code]](https://github.com/igul222/improved_wgan_training)(The improve of wgan)
+:white_check_mark: [Improved Training of Wasserstein GANs] [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)(The improve of wgan)
 
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.04862)
 
