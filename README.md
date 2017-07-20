@@ -155,8 +155,6 @@ The First paper
 
 :white_check_mark: [Sampling Generative Networks] [[Paper]](https://arxiv.org/abs/1609.04468)[[Code]](https://github.com/dribnet/plat)
 
-:white_check_mark: [Mode Regularized Generative Adversarial Networkss] [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
-
 :white_check_mark: [How to train Gans] [[Docu]](https://github.com/soumith/ganhacks#authors)
 
 :white_check_mark: [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
