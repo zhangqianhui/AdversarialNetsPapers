@@ -43,6 +43,8 @@ The First paper
 
 :white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
+:white_check_mark: [:white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1612.07828)] [[code]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
+
 ## Ensemble
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
