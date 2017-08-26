@@ -120,8 +120,6 @@ The First paper
 
 :white_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)(Yann LeCun's paper)
 
-:white_check_mark: [Unsupervised Learning for Physical Interaction through Video Prediction] [[Paper]](https://arxiv.org/abs/1605.07157)(Ian Goodfellow's paper)
-
 :white_check_mark: [Generating Videos with Scene Dynamics] [[Paper]](https://arxiv.org/abs/1609.02612)[[Web]](http://web.mit.edu/vondrick/tinyvideo/)[[Code]](https://github.com/cvondrick/videogan)
 
 ## Texture Synthesis & style transfer
