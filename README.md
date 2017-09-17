@@ -211,6 +211,10 @@ The First paper
 
 :white_check_mark: [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly] [[Paper]](https://arxiv.org/abs/1704.00103) 
 
+## OpenSet Classification 
+
+:white_check_mark: [Generative OpenMax for Multi-Class Open Set Classification] [[Paper]](https://arxiv.org/pdf/1707.07418.pdf)(BMVC 2017)
+
 # Project
 
 :white_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
