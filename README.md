@@ -143,7 +143,7 @@ The First paper
 
 :white_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
-
+:white_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
 
 
 ## GAN Theory
