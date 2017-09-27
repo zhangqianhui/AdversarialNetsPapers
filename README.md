@@ -213,9 +213,11 @@ The First paper
 
 :white_check_mark: [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly] [[Paper]](https://arxiv.org/abs/1704.00103) 
 
-## OpenSet Classification 
+## Classification 
 
 :white_check_mark: [Generative OpenMax for Multi-Class Open Set Classification] [[Paper]](https://arxiv.org/pdf/1707.07418.pdf)(BMVC 2017)
+
+:white_check_mark: [Controllable Invariance through Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1705.11122)[[code]](https://github.com/github-pengge/adversarial_invariance_feature_learning)(NIPS 2017)
 
 # Project
 
