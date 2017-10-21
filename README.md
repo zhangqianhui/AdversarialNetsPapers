@@ -199,7 +199,11 @@ The First paper
 
 :white_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
 
+:white_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)(BMVC 2017)[[code]](https://github.com/Prinsphield/GeneGAN)
+
 :white_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
+
+
 
 ## For discrete distributions
 
