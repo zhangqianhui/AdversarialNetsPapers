@@ -36,11 +36,15 @@ The First paper
 
 :white_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
-#Semi-supervised 
+## Semi-supervised learning
 
 :white_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
 
+:white_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
 
+:white_check_mark: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
+
+:white_check_mark: [Semi-Supervised QA with Generative Domain-Adaptive Nets] [[Paper]](https://arxiv.org/abs/1702.02206)
 
 ## Ensemble
 
@@ -248,5 +252,3 @@ The First paper
 :white_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
 
 :white_check_mark: [3] [[ICCV 2017 Tutorial About GANS]](https://sites.google.com/view/iccv-2017-gans/schedule)
-
-
