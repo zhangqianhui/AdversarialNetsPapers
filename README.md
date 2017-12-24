@@ -164,6 +164,8 @@ The First paper
 
 :white_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
 
+:white_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
 
 ## GAN Theory
 
