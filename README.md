@@ -60,6 +60,8 @@ The First paper
 
 :white_check_mark: [Semi-Supervised QA with Generative Domain-Adaptive Nets] [[Paper]](https://arxiv.org/abs/1702.02206)(ACL 2017)
 
+:white_check_mark: [Good Semi-supervised Learning that Requires a Bad GAN] [[Paper]](https://arxiv.org/abs/1705.09783)[[Code]](https://github.com/kimiyoung/ssl_bad_gan)(NIPS 2017)
+
 ## Ensemble
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
