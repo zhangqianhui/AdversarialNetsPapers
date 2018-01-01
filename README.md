@@ -158,7 +158,7 @@ The First paper
 
 :white_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
 
-:white_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)
+:white_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
 
 :white_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
@@ -167,6 +167,8 @@ The First paper
 :white_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
 
 :white_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
+:white_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
 
 
 ## GAN Theory
