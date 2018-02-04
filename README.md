@@ -199,6 +199,8 @@ The First paper
 
 :white_check_mark: [Generalization and Equilibrium in Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1703.00573)（ICML 2017）
 
+:white_check_mark: [Spectral Normalization for Generative Adversarial Networks][[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)（ICLR 2018）
+
 # Medicine
 
 :white_check_mark: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[Paper]](https://arxiv.org/abs/1703.05921)
