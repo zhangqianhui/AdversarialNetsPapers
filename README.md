@@ -1,10 +1,10 @@
 # AdversarialNetsPapers
-The good papers about Generative Adversarial Networks
+The classic about Generative Adversarial Networks
 
 The First paper
 --------------------------------------------
 :white_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
-[[Code]](https://github.com/goodfeli/adversarial)(the first paper about it)
+[[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
 ## Unclassified
 
@@ -48,7 +48,7 @@ The First paper
 
 :white_check_mark: [Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow] [[Paper]](https://arxiv.org/abs/1703.10717)[[Code]](https://github.com/artcg/BEGAN)
 
-:white_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation ] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)
+:white_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation ] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)[[Tensorflow Code]](https://github.com/zhangqianhui/PGGAN-tensorflow)
 
 ## Semi-supervised learning
 
@@ -60,13 +60,11 @@ The First paper
 
 :white_check_mark: [Semi-Supervised QA with Generative Domain-Adaptive Nets] [[Paper]](https://arxiv.org/abs/1702.02206)(ACL 2017)
 
+:white_check_mark: [Good Semi-supervised Learning that Requires a Bad GAN] [[Paper]](https://arxiv.org/abs/1705.09783)[[Code]](https://github.com/kimiyoung/ssl_bad_gan)(NIPS 2017)
+
 ## Ensemble
 
 :white_check_mark: [AdaGAN: Boosting Generative Models] [[Paper]](https://arxiv.org/abs/1701.02386)[[Code]]（Google Brain）
-
-## Clustering
-
-:white_check_mark: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
 
 ## Image blending
 
@@ -156,11 +154,21 @@ The First paper
 
 :white_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
 
-:white_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)
+:white_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
 
 :white_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
 :white_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
+
+:white_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
+
+:white_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
+:white_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
+
+:white_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
+
+:white_check_mark: [Toward Multimodal Image-to-Image Translation.] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
 
 
 ## GAN Theory
@@ -191,6 +199,11 @@ The First paper
 
 :white_check_mark: [Generalization and Equilibrium in Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1703.00573)（ICML 2017）
 
+:white_check_mark: [Spectral Normalization for Generative Adversarial Networks][[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)（ICLR 2018）
+
+# Medicine
+
+:white_check_mark: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[Paper]](https://arxiv.org/abs/1703.05921)
 
 ## 3D
 
@@ -219,6 +232,8 @@ The First paper
 :white_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)(BMVC 2017)[[code]](https://github.com/Prinsphield/GeneGAN)
 
 :white_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
+
+:white_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)
 
 
 ## For discrete distributions
