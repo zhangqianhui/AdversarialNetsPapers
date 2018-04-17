@@ -168,8 +168,9 @@ The First paper
 
 :white_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
 
-:white_check_mark: [Toward Multimodal Image-to-Image Translation.] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
+:white_check_mark: [Toward Multimodal Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
 
+:white_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
 
 ## GAN Theory
 
