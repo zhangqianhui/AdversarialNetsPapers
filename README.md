@@ -218,7 +218,7 @@ The First paper
 
 :white_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
 
-:white_check_mark: [LEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes ] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)
+:white_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes ] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)
 
 ## Joint Probability
 
