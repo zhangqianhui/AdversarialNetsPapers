@@ -166,7 +166,7 @@ The First paper
 
 :white_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
-# Image translation 
+# Image translation
 
 :white_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
@@ -215,6 +215,8 @@ The First paper
 :white_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
 
 :white_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)(CVPR 2018)
+
+:white_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
 
 :white_check_mark: [LEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes ] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)
 
