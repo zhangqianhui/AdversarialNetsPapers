@@ -110,8 +110,9 @@ The First paper
 
 :white_check_mark: [Generative face completion] [[Paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit)[[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)(CVPR2017)
 
-:white_check_mark: [Globally and Locally Consistent Image Completion] [[MainPAGE]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting(SIGGRAPH 2017)
+:white_check_mark: [Globally and Locally Consistent Image Completion] [[MainPAGE]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)(SIGGRAPH 2017)
 
+:white_check_mark: [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis] [[Paper]](https://arxiv.org/abs/1611.09969)[[code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)(CVPR 2017)
 
 :white_check_mark: [Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[code]](https://arxiv.org/abs/1712.03999)(CVPR2018)
 
