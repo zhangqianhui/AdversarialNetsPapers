@@ -1,7 +1,7 @@
 # AdversarialNetsPapers
 The classic about Generative Adversarial Networks
 
-The First paper
+First paper
 --------------------------------------------
 :heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
