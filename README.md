@@ -116,7 +116,11 @@ First paper
 
 :heavy_check_mark: [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis] [[Paper]](https://arxiv.org/abs/1611.09969)[[code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)(CVPR 2017)
 
-:heavy_check_mark: [Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](hhttps://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
+:heavy_check_mark: [Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](https://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
+
+:heavy_check_mark: [Generative Image Inpainting with Contextual Attention] [[Paper]](https://arxiv.org/abs/1801.07892)[[Project]](http://jiahuiyu.com/deepfill)[[Demo]](http://jiahuiyu.com/deepfill)[[YouTube]](https://youtu.be/xz1ZvcdhgQ0)[[Code]](https://github.com/JiahuiYu/generative_inpainting)(CVPR2018)
+
+:heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
 
 ## Super-Resolution
 
