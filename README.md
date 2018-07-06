@@ -225,7 +225,7 @@ First paper
 
 :heavy_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
 
-:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)
+:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
 
 
 :heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
