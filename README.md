@@ -32,6 +32,8 @@ First paper
 
 :heavy_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
+:heavy_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
+
 ## GAN Theory
 
 :heavy_check_mark: [Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
@@ -229,10 +231,6 @@ First paper
 
 
 :heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
-
-## Joint Probability
-
-:heavy_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
 
 ## RNN
 
