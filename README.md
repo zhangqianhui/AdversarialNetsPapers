@@ -195,8 +195,6 @@ First paper
 
 :heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
 
-:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
-
 :heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
 
 :heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
@@ -221,7 +219,9 @@ First paper
 
 :heavy_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
 
-:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)(BMVC 2017)[[code]](https://github.com/Prinsphield/GeneGAN)
+:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)[[code]](https://github.com/Prinsphield/GeneGAN)(BMVC 2017)
+
+:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
 
 :heavy_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
 
@@ -231,8 +231,9 @@ First paper
 
 :heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
 
-
 :heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
+
+:heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
 ## RNN
 
