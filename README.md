@@ -205,6 +205,8 @@ First paper
 
 :heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
 
+:heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
+
 ## Facial Attribute Manipulation
 
 :heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
