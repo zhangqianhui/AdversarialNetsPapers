@@ -126,6 +126,11 @@ First paper
 
 :heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
 
+## Re-identification
+
+:heavy_check_mark: [Pose-Normalized Image Generation for Person Re-identification] [[Paper]](https://arxiv.org/abs/1712.02225)[[Code]](https://github.com/naiq/PN_GAN)(ECCV 2018)
+
+
 ## Super-Resolution
 
 :heavy_check_mark: [Image super-resolution through deep learning ][[Code]](https://github.com/david-gpu/srez)(Just for face dataset)
