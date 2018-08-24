@@ -242,9 +242,15 @@ First paper
 
 :heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
+## Reinforcement learning
+
+:heavy_check_mark: [Connecting Generative Adversarial Networks and Actor-Critic Methods] [[Paper]](https://arxiv.org/abs/1610.01945)(NIPS 2016 workshop)
+
 ## RNN
 
 :heavy_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
+
+
 
 # Medicine
 
