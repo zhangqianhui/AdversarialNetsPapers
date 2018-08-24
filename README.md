@@ -249,8 +249,7 @@ First paper
 ## RNN
 
 :heavy_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
-
-
+:heavy_check_mark: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient] [[Paper]](https://arxiv.org/abs/1609.05473)[[Code]](https://github.com/LantaoYu/SeqGAN)(AAAI 2017)
 
 # Medicine
 
