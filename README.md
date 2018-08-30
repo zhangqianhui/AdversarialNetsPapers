@@ -62,7 +62,7 @@ First paper
 
 :heavy_check_mark: [Generalization and Equilibrium in Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1703.00573)（ICML 2017）
 
-:heavy_check_mark: [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium][[Paper]]https://arxiv.org/abs/1706.08500)[[code]](https://github.com/bioinf-jku/TTUR)
+:heavy_check_mark: [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium][[Paper]](https://arxiv.org/abs/1706.08500)[[code]](https://github.com/bioinf-jku/TTUR)
 
 :heavy_check_mark: [Spectral Normalization for Generative Adversarial Networks][[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)（ICLR 2018）
 
