@@ -141,6 +141,8 @@ First paper
 
 :heavy_check_mark: [EnhanceGAN] [[Docs]](https://medium.com/@richardherbert/faces-from-noise-super-enhancing-8x8-images-with-enhancegan-ebda015bb5e0#.io6pskvin)[[Code]]
 
+:heavy_check_mark: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1809.00219)[[Code]](https://github.com/xinntao/ESRGAN)(ECCV 2018 workshop)
+
 ## De-Occlusion
 :heavy_check_mark: [Robust LSTM-Autoencoders for Face De-Occlusion in the Wild] [[Paper]](https://arxiv.org/abs/1612.08534)
 
