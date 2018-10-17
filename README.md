@@ -90,7 +90,7 @@ First paper
 
 :heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(smbmitted to ICLR 2019)
 
-## Semi-supervised learning
+## Semi-Supervised Learning
 
 :heavy_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
 
@@ -160,7 +160,7 @@ First paper
 
 :heavy_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)[[code]](https://github.com/xiaolonw/adversarial-frcnn)(CVPR2017)
 
-## Conditional adversarial
+## Conditional Adversarial
 
 :heavy_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)
 
@@ -188,7 +188,7 @@ First paper
 
 :heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
-# Image translation
+# Image Translation
 
 :heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
