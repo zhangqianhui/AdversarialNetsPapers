@@ -86,7 +86,9 @@ First paper
 
 :heavy_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)[[Tensorflow Code]](https://github.com/zhangqianhui/PGGAN-tensorflow)
 
-:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)
+:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)(NIPS 2018)
+
+:heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(smbmitted to ICLR 2019)
 
 ## Semi-supervised learning
 
