@@ -252,6 +252,8 @@ First paper
 
 :heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
+:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)[[code]](ACMMM 2018)
+
 ## Reinforcement learning
 
 :heavy_check_mark: [Connecting Generative Adversarial Networks and Actor-Critic Methods] [[Paper]](https://arxiv.org/abs/1610.01945)(NIPS 2016 workshop)
