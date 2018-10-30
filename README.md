@@ -252,7 +252,11 @@ First paper
 
 :heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
-:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)[[code]](ACMMM 2018)
+:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
+
+## Makeup
+
+:heavy_check_mark: [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network] [[Paper]](https://dl.acm.org/citation.cfm?id=3240618)(ACMMM 2018)
 
 ## Reinforcement learning
 
