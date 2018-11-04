@@ -271,6 +271,10 @@ First paper
 
 :heavy_check_mark: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[Paper]](https://arxiv.org/abs/1703.05921)
 
+## Bioinformatics
+
+:heavy_check_mark: [Protein Loop Modeling Using Deep Generative Adversarial Network] [[Paper]](https://ieeexplore.ieee.org/abstract/document/8372069)(ICTAI 2017)
+
 ## 3D
 
 :heavy_check_mark: [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
