@@ -222,6 +222,8 @@ First paper
 
 :heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
 
+:heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
+
 ## Facial Attribute Manipulation
 
 :heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
