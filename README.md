@@ -62,6 +62,8 @@ First paper
 
 :heavy_check_mark: [Generalization and Equilibrium in Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1703.00573)（ICML 2017）
 
+:heavy_check_mark: [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium][[Paper]](https://arxiv.org/abs/1706.08500)[[code]](https://github.com/bioinf-jku/TTUR)
+
 :heavy_check_mark: [Spectral Normalization for Generative Adversarial Networks][[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)（ICLR 2018）
 
 :heavy_check_mark: [Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406.pdf)[[code]](https://github.com/LMescheder/GAN_stability)（ICML 2018）
@@ -84,9 +86,11 @@ First paper
 
 :heavy_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)[[Tensorflow Code]](https://github.com/zhangqianhui/PGGAN-tensorflow)
 
-:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)
+:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)(NIPS 2018)
 
-## Semi-supervised learning
+:heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(smbmitted to ICLR 2019)
+
+## Semi-Supervised Learning
 
 :heavy_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
 
@@ -126,6 +130,11 @@ First paper
 
 :heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
 
+## Re-identification
+
+:heavy_check_mark: [Pose-Normalized Image Generation for Person Re-identification] [[Paper]](https://arxiv.org/abs/1712.02225)[[Code]](https://github.com/naiq/PN_GAN)(ECCV 2018)
+
+
 ## Super-Resolution
 
 :heavy_check_mark: [Image super-resolution through deep learning ][[Code]](https://github.com/david-gpu/srez)(Just for face dataset)
@@ -133,6 +142,8 @@ First paper
 :heavy_check_mark: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network] [[Paper]](https://arxiv.org/abs/1609.04802)[[Code]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)（Using Deep residual network）
 
 :heavy_check_mark: [EnhanceGAN] [[Docs]](https://medium.com/@richardherbert/faces-from-noise-super-enhancing-8x8-images-with-enhancegan-ebda015bb5e0#.io6pskvin)[[Code]]
+
+:heavy_check_mark: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1809.00219)[[Code]](https://github.com/xinntao/ESRGAN)(ECCV 2018 workshop)
 
 ## De-Occlusion
 :heavy_check_mark: [Robust LSTM-Autoencoders for Face De-Occlusion in the Wild] [[Paper]](https://arxiv.org/abs/1612.08534)
@@ -149,7 +160,11 @@ First paper
 
 :heavy_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)[[code]](https://github.com/xiaolonw/adversarial-frcnn)(CVPR2017)
 
-## Conditional adversarial
+## Landmark Detection
+
+:heavy_check_mark: [Style aggregated network for facial landmark detection] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf)(CVPR 2018)
+
+## Conditional Adversarial
 
 :heavy_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)
 
@@ -177,7 +192,7 @@ First paper
 
 :heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
-# Image translation
+# Image Translation
 
 :heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
@@ -206,6 +221,10 @@ First paper
 :heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
 
 :heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
+
+:heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
+
+:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
 
 ## Facial Attribute Manipulation
 
@@ -237,9 +256,20 @@ First paper
 
 :heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
+:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
+
+## Makeup
+
+:heavy_check_mark: [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network] [[Paper]](https://dl.acm.org/citation.cfm?id=3240618)(ACMMM 2018)
+
+## Reinforcement learning
+
+:heavy_check_mark: [Connecting Generative Adversarial Networks and Actor-Critic Methods] [[Paper]](https://arxiv.org/abs/1610.01945)(NIPS 2016 workshop)
+
 ## RNN
 
 :heavy_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
+:heavy_check_mark: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient] [[Paper]](https://arxiv.org/abs/1609.05473)[[Code]](https://github.com/LantaoYu/SeqGAN)(AAAI 2017)
 
 # Medicine
 
