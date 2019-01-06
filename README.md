@@ -132,6 +132,8 @@ First paper
 
 :heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
 
+:heavy_check_mark: [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning] [[Paper]](https://arxiv.org/abs/1901.00212)[[Code]](https://github.com/knazeri/edge-connect)
+
 ## Re-identification
 
 :heavy_check_mark: [Pose-Normalized Image Generation for Person Re-identification] [[Paper]](https://arxiv.org/abs/1712.02225)[[Code]](https://github.com/naiq/PN_GAN)(ECCV 2018)
