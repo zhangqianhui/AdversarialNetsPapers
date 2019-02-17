@@ -90,7 +90,7 @@ First paper
 
 :heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(ICLR 2019)
 
-:heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)(https://github.com/NVlabs/stylegan)
+:heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
 
 ## Semi-Supervised Learning
 
