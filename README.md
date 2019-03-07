@@ -68,6 +68,9 @@ First paper
 
 :heavy_check_mark: [Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406.pdf)[[code]](https://github.com/LMescheder/GAN_stability)（ICML 2018）
 
+:heavy_check_mark: [Self-Supervised Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
+
+
 ## Generation High-Quality Images
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
@@ -229,6 +232,8 @@ First paper
 :heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 
 :heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
+
+:heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
 
 ## Facial Attribute Manipulation
 
