@@ -95,6 +95,10 @@ First paper
 
 :heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
 
+## Scene Generation
+
+:heavy_check_mark: [a layer-based sequential framework for scene generation with gans] [[Paper]](https://arxiv.org/abs/1902.00671)[[Code]](https://github.com/0zgur0/Seq_Scene_Gen)(AAAI 2019)
+
 ## Semi-Supervised Learning
 
 :heavy_check_mark: [Adversarial Training Methods for Semi-Supervised Text Classification] [[Paper]](https://arxiv.org/abs/1605.07725)[[Note]](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/adversarial-text-classification.md)( Ian Goodfellow Paper)
