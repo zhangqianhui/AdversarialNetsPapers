@@ -6,6 +6,44 @@ First paper
 :heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
+# Image Translation
+
+:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
+
+:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
+
+:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
+
+:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
+
+:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
+
+:heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
+
+:heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
+
+:heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
+
+:heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
+:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
+
+:heavy_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
+
+:heavy_check_mark: [Toward Multimodal Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
+
+:heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
+
+:heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
+
+:heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
+
+:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
+
+:heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
+
+:heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
+
 ## Facial Attribute Manipulation
 
 :heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
@@ -234,44 +272,6 @@ First paper
 ## Texture Synthesis & style transfer
 
 :heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
-
-# Image Translation
-
-:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
-
-:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
-
-:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
-
-:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
-
-:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
-
-:heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
-
-:heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
-
-:heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
-
-:heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
-
-:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
-
-:heavy_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
-
-:heavy_check_mark: [Toward Multimodal Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
-
-:heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
-
-:heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
-
-:heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
-
-:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
-
-:heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
-
-:heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
 
 ## Makeup
 
