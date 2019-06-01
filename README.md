@@ -6,6 +6,38 @@ First paper
 :heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
+## Facial Attribute Manipulation
+
+:heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
+
+:heavy_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
+
+:heavy_check_mark: [Invertible Conditional GANs for image editing] [[Paper]](https://drive.google.com/file/d/0B48XS5sLi1OlRkRIbkZWUmdoQmM/view)[[Code]](https://github.com/Guim3/IcGAN)
+
+:heavy_check_mark: [Learning Residual Images for Face Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1612.05363)[[code]](https://github.com/Zhongdao/FaceAttributeManipulation)(CVPR 2017)
+
+:heavy_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)[[Code]](https://github.com/ajbrock/Neural-Photo-Editor)(ICLR 2017)
+
+:heavy_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
+
+:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)[[code]](https://github.com/Prinsphield/GeneGAN)(BMVC 2017)
+
+:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
+
+:heavy_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
+
+:heavy_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)(CVPR 2018)
+
+:heavy_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
+
+:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
+
+:heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
+
+:heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
+
+:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
+
 ## Unclassified
 
 :heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
@@ -240,38 +272,6 @@ First paper
 :heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
 
 :heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
-
-## Facial Attribute Manipulation
-
-:heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
-
-:heavy_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
-
-:heavy_check_mark: [Invertible Conditional GANs for image editing] [[Paper]](https://drive.google.com/file/d/0B48XS5sLi1OlRkRIbkZWUmdoQmM/view)[[Code]](https://github.com/Guim3/IcGAN)
-
-:heavy_check_mark: [Learning Residual Images for Face Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1612.05363)[[code]](https://github.com/Zhongdao/FaceAttributeManipulation)(CVPR 2017)
-
-:heavy_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)[[Code]](https://github.com/ajbrock/Neural-Photo-Editor)(ICLR 2017)
-
-:heavy_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
-
-:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)[[code]](https://github.com/Prinsphield/GeneGAN)(BMVC 2017)
-
-:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
-
-:heavy_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
-
-:heavy_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)(CVPR 2018)
-
-:heavy_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
-
-:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
-
-:heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
-
-:heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
-
-:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
 
 ## Makeup
 
