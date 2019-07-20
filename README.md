@@ -214,6 +214,9 @@ First paper
 
 ## Re-identification
 
+
+:heavy_check_mark: [Joint Discriminative and Generative Learning for Person Re-identification] [[Paper]](https://arxiv.org/abs/1904.07223)[[Code]](https://github.com/NVlabs/DG-Net)[[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) (CVPR2019 Oral)
+
 :heavy_check_mark: [Pose-Normalized Image Generation for Person Re-identification] [[Paper]](https://arxiv.org/abs/1712.02225)[[Code]](https://github.com/naiq/PN_GAN)(ECCV 2018)
 
 
