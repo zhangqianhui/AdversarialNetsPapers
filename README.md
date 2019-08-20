@@ -49,7 +49,7 @@ First paper
 
 ## AutoML
 
-:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV)
+:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
 
 
 ## Facial Attribute Manipulation
