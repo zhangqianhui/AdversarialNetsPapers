@@ -44,9 +44,6 @@ First paper
 
 :heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
 
-:heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
-
-
 ## AutoML
 
 :heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
