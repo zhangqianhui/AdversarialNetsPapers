@@ -83,6 +83,8 @@ First paper
 
 :heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
 
+:heavy_check_mark: [STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing] [[Paper]](https://arxiv.org/abs/1904.09709)[[code]](https://github.com/csmliu/STGAN)(CVPR 2019)
+
 ## Generation High-Quality Images
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
