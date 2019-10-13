@@ -329,6 +329,8 @@ First paper
 
 :heavy_check_mark: [Learning from Simulated and Unsupervised Images through Adversarial Training] [[Paper]](https://arxiv.org/abs/1612.07828)[[code]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)（Apple paper, CVPR 2017 Best Paper）
 
+:heavy_check_mark: [GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification] [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231218310749) Neurocomputing Journal (2018), Elsevier）
+
 # Project
 
 :heavy_check_mark: [cleverhans] [[Code]](https://github.com/openai/cleverhans)(A library for benchmarking vulnerability to adversarial examples)
