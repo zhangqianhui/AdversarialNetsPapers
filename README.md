@@ -8,11 +8,6 @@ First paper
 
 # Image Translation
 
-:heavy_check_mark: [Controllable Artistic Text Style Transfer via Shape-Matching GAN] [[Paper]](https://arxiv.org/abs/1905.01354)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)(ICCV 2019)
-
-:heavy_check_mark: [ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal] [[Paper]](https://arxiv.org/abs/1908.01323)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)
-(ICCV 2019)
-
 :heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
 :heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
@@ -53,9 +48,11 @@ First paper
 
 :heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
 
-## Gaze Redirection
+## Gaze Correction and Redirection
 
 :heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
+
+:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
 
 
 ## Facial Attribute Manipulation
@@ -89,8 +86,6 @@ First paper
 :heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
 
 :heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
-
-:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
 
 :heavy_check_mark: [STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing] [[Paper]](https://arxiv.org/abs/1904.09709)[[code]](https://github.com/csmliu/STGAN)(CVPR 2019)
 
@@ -292,6 +287,12 @@ First paper
 ## Texture Synthesis & style transfer
 
 :heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
+
+:heavy_check_mark: [Controllable Artistic Text Style Transfer via Shape-Matching GAN] [[Paper]](https://arxiv.org/abs/1905.01354)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)(ICCV 2019)
+
+## Shadow Detection and Removal
+
+:heavy_check_mark: [ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal] [[Paper]](https://arxiv.org/abs/1908.01323)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)(ICCV 2019)
 
 ## Makeup
 
