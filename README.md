@@ -8,6 +8,11 @@ First paper
 
 # Image Translation
 
+:heavy_check_mark: [Controllable Artistic Text Style Transfer via Shape-Matching GAN] [[Paper]](https://arxiv.org/abs/1905.01354)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)(ICCV 2019)
+
+:heavy_check_mark: [ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal] [[Paper]](https://arxiv.org/abs/1908.01323)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)
+(ICCV 2019)
+
 :heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
 :heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
@@ -47,6 +52,10 @@ First paper
 ## AutoML
 
 :heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
+
+## Gaze Redirection
+
+:heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
 
 
 ## Facial Attribute Manipulation
