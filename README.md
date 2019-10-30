@@ -113,6 +113,8 @@ First paper
 
 :heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
 
+:heavy_check_mark: [SinGAN: Learning a Generative Model from a Single Natural Image] [[Paper]](https://arxiv.org/pdf/1905.01164.pdf)[[Code]](https://github.com/tamarott/SinGAN)
+
 ## Unclassified
 
 :heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
