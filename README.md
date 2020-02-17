@@ -113,6 +113,8 @@ First paper
 
 :heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
 
+:heavy_check_mark: [Analyzing and Improving the Image Quality of StyleGAN] [[Paper]](http://arxiv.org/abs/1912.04958)[[Code]](https://github.com/NVlabs/stylegan2)
+
 :heavy_check_mark: [SinGAN: Learning a Generative Model from a Single Natural Image] [[Paper]](https://arxiv.org/pdf/1905.01164.pdf)[[Code]](https://github.com/tamarott/SinGAN)(ICCV2019 best paper)
 
 ## Unclassified
