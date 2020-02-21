@@ -115,6 +115,8 @@ First paper
 
 :heavy_check_mark: [SinGAN: Learning a Generative Model from a Single Natural Image] [[Paper]](https://arxiv.org/pdf/1905.01164.pdf)[[Code]](https://github.com/tamarott/SinGAN)(ICCV2019 best paper)
 
+:heavy_check_mark: [Real or Not Real, that is the Question] [[Paper]](https://openreview.net/forum?id=B1lPaCNtPB)[[Code]](https://github.com/kam1107/RealnessGAN)(ICLR2020 Spot)
+
 ## Unclassified
 
 :heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
