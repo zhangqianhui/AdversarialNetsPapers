@@ -20,6 +20,8 @@ First paper
 
 :heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
 
+:heavy_check_mark: [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1704.02510)(NIPS 2017)[[Code]](https://github.com/duxingren14/DualGAN)
+
 :heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
 :heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
