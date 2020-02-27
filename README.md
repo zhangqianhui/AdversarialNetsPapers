@@ -20,6 +20,8 @@ First paper
 
 :heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
 
+:heavy_check_mark: [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1704.02510)(NIPS 2017)[[Code]](https://github.com/duxingren14/DualGAN)
+
 :heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
 :heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
@@ -112,6 +114,8 @@ First paper
 :heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(ICLR 2019)
 
 :heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
+
+:heavy_check_mark: [Analyzing and Improving the Image Quality of StyleGAN] [[Paper]](http://arxiv.org/abs/1912.04958)[[Code]](https://github.com/NVlabs/stylegan2)
 
 :heavy_check_mark: [SinGAN: Learning a Generative Model from a Single Natural Image] [[Paper]](https://arxiv.org/pdf/1905.01164.pdf)[[Code]](https://github.com/tamarott/SinGAN)(ICCV2019 best paper)
 
