@@ -93,6 +93,8 @@ First paper
 
 :heavy_check_mark: [STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing] [[Paper]](https://arxiv.org/abs/1904.09709)[[code]](https://github.com/csmliu/STGAN)(CVPR 2019)
 
+:heavy_check_mark: [3d guided fine-grained face manipulation] [[Paper]](https://arxiv.org/abs/1902.08900)(CVPR 2019)
+
 :heavy_check_mark: [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color] [[Paper]](https://arxiv.org/abs/1902.06838)[[code]](https://github.com/run-youngjoo/SC-FEGAN)(ICCV 2019)
 
 ## Generation High-Quality Images
