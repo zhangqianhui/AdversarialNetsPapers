@@ -52,6 +52,7 @@ First paper
 
 :heavy_check_mark: [Structural-analogy from a Single Image Pair] [[Paper]](https://arxiv.org/pdf/2004.02222v1.pdf)[[Code]](https://github.com/rmokady/structural-analogy)
 
+:heavy_check_mark: [High-Resolution Daytime Translation Without Domain Labels] [[Paper]](https://arxiv.org/abs/2003.08791)[[Code]](https://github.com/saic-mdal/HiDT)
 
 
 ## AutoML
