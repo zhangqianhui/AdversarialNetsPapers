@@ -24,11 +24,9 @@ First paper
 
 :heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
 
-:heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
-
 :heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
 
-:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
+:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)
 
 :heavy_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
 
@@ -40,7 +38,7 @@ First paper
 
 :heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 
-:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
+:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)(ACMMM 2018)
 
 :heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
 
