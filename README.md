@@ -61,9 +61,13 @@ First paper
 
 ## Gaze Correction and Redirection
 
+:heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
+
 :heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
 
 :heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
+
+:heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
 
 
 ## Facial Attribute Manipulation
