@@ -141,7 +141,7 @@ First paper
 
 :heavy_check_mark: [Real or Not Real, that is the Question] [[Paper]](https://openreview.net/forum?id=B1lPaCNtPB)[[Code]](https://github.com/kam1107/RealnessGAN)(ICLR2020 Spot)
 
-:heavy_check_mark: [Training End-to-end Single Image Generatorswithout GANs] [[Paper]](https://arxiv.org/pdf/2004.06014.pdf)
+:heavy_check_mark: [Training End-to-end Single Image Generators without GANs] [[Paper]](https://arxiv.org/pdf/2004.06014.pdf)
 
 
 
