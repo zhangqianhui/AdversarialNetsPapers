@@ -67,6 +67,11 @@ First paper
 
 :heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
 
+## Image Animation
+
+:heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
+
+:heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
 
 ## Facial Attribute Manipulation
 
