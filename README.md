@@ -141,6 +141,10 @@ First paper
 
 :heavy_check_mark: [Real or Not Real, that is the Question] [[Paper]](https://openreview.net/forum?id=B1lPaCNtPB)[[Code]](https://github.com/kam1107/RealnessGAN)(ICLR2020 Spot)
 
+:heavy_check_mark: [Training End-to-end Single Image Generatorswithout GANs] [[Paper]](https://arxiv.org/pdf/2004.06014.pdf)
+
+
+
 ## Unclassified
 
 :heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
