@@ -144,6 +144,7 @@ First paper
 :heavy_check_mark: [Training End-to-end Single Image Generators without GANs] [[Paper]](https://arxiv.org/pdf/2004.06014.pdf)
 
 
+:heavy_check_mark: [Adversarial Latent Autoencoders] [[Paper]](https://arxiv.org/abs/2004.04467)[[code]](https://github.com/podgorskiy/ALAE)
 
 ## Unclassified
 
