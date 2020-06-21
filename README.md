@@ -38,8 +38,6 @@ First paper
 
 :heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 
-:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)(ACMMM 2018)
-
 :heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
 
 :heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
@@ -53,25 +51,8 @@ First paper
 :heavy_check_mark: [High-Resolution Daytime Translation Without Domain Labels] [[Paper]](https://arxiv.org/abs/2003.08791)[[Code]](https://github.com/saic-mdal/HiDT)
 
 
-## AutoML
-
-:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
-
-## Gaze Correction and Redirection
-
-:heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
-
-:heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
-
-:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
-
-:heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
-
-## Image Animation
-
-:heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
-
-:heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
+:heavy_check_mark: [
+Rethinking the Truly Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/2006.06500)[[Code]](https://github.com/clovaai/tunit)
 
 ## Facial Attribute Manipulation
 
@@ -112,6 +93,27 @@ First paper
 :heavy_check_mark: [3d guided fine-grained face manipulation] [[Paper]](https://arxiv.org/abs/1902.08900)(CVPR 2019)
 
 :heavy_check_mark: [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color] [[Paper]](https://arxiv.org/abs/1902.06838)[[code]](https://github.com/run-youngjoo/SC-FEGAN)(ICCV 2019)
+
+
+## AutoML
+
+:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
+
+## Gaze Correction and Redirection
+
+:heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
+
+:heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
+
+:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
+
+:heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
+
+## Image Animation
+
+:heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
+
+:heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
 
 ## Generation High-Quality Images
 
@@ -175,6 +177,8 @@ First paper
 :heavy_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
 
 :heavy_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
+
+:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)(ACMMM 2018)
 
 ## GAN Theory
 
