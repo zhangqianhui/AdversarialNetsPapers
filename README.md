@@ -75,6 +75,8 @@ First paper
 
 ## Facial Attribute Manipulation
 
+:heavy_check_mark: [A Survey of Deep Facial Attribute Analysis] [[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-020-01308-z.pdf)(IJCV)
+
 :heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
 
 :heavy_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
