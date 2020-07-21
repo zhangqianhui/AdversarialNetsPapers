@@ -94,6 +94,8 @@ Rethinking the Truly Unsupervised Image-to-Image Translation] [[Paper]](https://
 
 :heavy_check_mark: [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color] [[Paper]](https://arxiv.org/abs/1902.06838)[[code]](https://github.com/run-youngjoo/SC-FEGAN)(ICCV 2019)
 
+:heavy_check_mark: [PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing] [[Paper]](https://arxiv.org/abs/2007.05892)[[code]](https://github.com/LynnHo/PA-GAN-Tensorflow)
+
 
 ## AutoML
 
