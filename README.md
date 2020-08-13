@@ -21,9 +21,9 @@ Awesome papers about Generative Adversarial Networks
 
 
 ## First paper
---------------------------------------------
-:heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
-[[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
+
+:heavy_check_mark: [Generative Adversarial Nets]
+-[[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
 ## Image Translation
 
