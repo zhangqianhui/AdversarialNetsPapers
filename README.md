@@ -2,8 +2,8 @@
 Awesome papers about Generative Adversarial Networks
 
 ## Table of Contents
-- [First Paper](#First paper)
-- [Image Translation(#Image Translation)
+- [First Paper](#First-Paper)
+- [Image Translation](#Image-Translation)
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
