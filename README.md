@@ -1,5 +1,7 @@
 # AdversarialNetsPapers
-The classic about Generative Adversarial Networks
+Awesome papers about Generative Adversarial Networks
+
+
 
 First paper
 --------------------------------------------
