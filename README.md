@@ -14,8 +14,11 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
   - [2017](#reinforcement-learning)
   - [2018](#recommendation-systems)
 - [Generative Models](#Generative-Models)  
-- [Natural Language Processing (NLP)](#nlp)
-- [Automatic Speech Recognition (ASR)](#asr)
+- [Gaze Correction and Redirection](#Gaze-Correction-and-Redirection)
+- [AutoML](#AutoML)
+- [GAN Theory](#GAN-Theory)
+- [Reinforcement learning](#Reinforcement-learning)
+
 - [Talks](#talks)
 - [Thesis](#thesis)
 - [Blog](#blog)
@@ -178,36 +181,6 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 :heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
 
 :heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
-
-## Unclassified
-
-:heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
-
-:heavy_check_mark: [Adversarial Autoencoders] [[Paper]](http://arxiv.org/abs/1511.05644)[[Code]](https://github.com/musyoku/adversarial-autoencoder)
-
-:heavy_check_mark: [Generating Images with Perceptual Similarity Metrics based on Deep Networks] [[Paper]](https://arxiv.org/pdf/1602.02644v2.pdf)
-
-:heavy_check_mark: [Generating images with recurrent adversarial networks] [[Paper]](https://arxiv.org/abs/1602.05110)[[Code]](https://github.com/ofirnachum/sequence_gan)
-
-:heavy_check_mark: [Generative Visual Manipulation on the Natural Image Manifold] [[Paper]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/eccv16_gvm.pdf)[[Code]](https://github.com/junyanz/iGAN)
-
-:heavy_check_mark: [Learning What and Where to Draw] [[Paper]](http://www.scottreed.info/files/nips2016.pdf)[[Code]](https://github.com/reedscot/nips2016)
-
-:heavy_check_mark: [Adversarial Training for Sketch Retrieval] [[Paper]](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_55)
-
-:heavy_check_mark: [Generative Image Modeling using Style and Structure Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1603.05631.pdf)[[Code]](https://github.com/xiaolonw/ss-gan)
-
-:heavy_check_mark: [Generative Adversarial Networks as Variational Training of Energy Based Models] [[Paper]](http://www.mathpubs.com/detail/1611.01799v1/Generative-Adversarial-Networks-as-Variational-Training-of-Energy-Based-Models)(ICLR 2017)
-
-:heavy_check_mark: [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks] [[Paper]](https://arxiv.org/pdf/1605.09304v5.pdf)[[Code]](https://github.com/Evolving-AI-Lab/synthesizing)
-
-:heavy_check_mark: [SalGAN: Visual Saliency Prediction with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1701.01081)[[Code]](https://github.com/imatge-upc/saliency-salgan-2017)
-
-:heavy_check_mark: [Adversarial Feature Learning] [[Paper]](https://arxiv.org/abs/1605.09782)
-
-:heavy_check_mark: [Adversarially Learned Inference][[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
-
-:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)(ACMMM 2018)
 
 ## GAN Theory
 
