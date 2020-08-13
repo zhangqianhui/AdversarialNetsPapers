@@ -1,16 +1,33 @@
 # AdversarialNetsPapers
 Awesome papers about Generative Adversarial Networks
 
+## Table of Contents
+- [Computer Vision (CV)](#computer-vision)
+  - [Survey](#survey)
+  - [Image Representation Learning](#image-representation-learning)
+  - [Video Representation Learning](#video-representation-learning)
+  - [Geometry](#geometry)
+  - [Audio](#audio)
+  - [Others](#others)
+- [Machine Learning](#machine-learning)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Recommendation Systems](#recommendation-systems)
+- [Robotics](#robotics)  
+- [Natural Language Processing (NLP)](#nlp)
+- [Automatic Speech Recognition (ASR)](#asr)
+- [Talks](#talks)
+- [Thesis](#thesis)
+- [Blog](#blog)
 
 
-First paper
+## First paper
 --------------------------------------------
 :heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
-# Image Translation
+## Image Translation
 
-:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
+-:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
 :heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
 
