@@ -50,9 +50,14 @@ First paper
 
 :heavy_check_mark: [High-Resolution Daytime Translation Without Domain Labels] [[Paper]](https://arxiv.org/abs/2003.08791)[[Code]](https://github.com/saic-mdal/HiDT)
 
-
 :heavy_check_mark: [
 Rethinking the Truly Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/2006.06500)[[Code]](https://github.com/clovaai/tunit)
+
+:heavy_check_mark: [
+Diverse Image Generation via Self-Conditioned GANs] [[Paper]](http://selfcondgan.csail.mit.edu/preprint.pdf)[[Code]](https://github.com/stevliu/self-conditioned-gan)(CVPR2020)
+
+:heavy_check_mark: [
+Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://taesung.me/ContrastiveUnpairedTranslation/)[[Code]](https://github.com/taesungp/contrastive-unpaired-translation)(ECCV2020)
 
 ## Facial Attribute Manipulation
 
