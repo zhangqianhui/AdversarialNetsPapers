@@ -96,11 +96,6 @@ Rethinking the Truly Unsupervised Image-to-Image Translation] [[Paper]](https://
 
 :heavy_check_mark: [PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing] [[Paper]](https://arxiv.org/abs/2007.05892)[[code]](https://github.com/LynnHo/PA-GAN-Tensorflow)
 
-
-## AutoML
-
-:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
-
 ## Gaze Correction and Redirection
 
 :heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
@@ -110,6 +105,13 @@ Rethinking the Truly Unsupervised Image-to-Image Translation] [[Paper]](https://
 :heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
 
 :heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
+
+:heavy_check_mark: [Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild] [[Paper]](https://arxiv.org/abs/2008.03834)[[Code]](https://github.com/zhangqianhui/GazeAnimation)
+
+
+## AutoML
+
+:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
 
 ## Image Animation
 
