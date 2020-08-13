@@ -1,19 +1,19 @@
 # AdversarialNetsPapers
-Awesome papers about Generative Adversarial Networks
+Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation. 
 
 ## Table of Contents
 - [First Paper](#First-Paper)
 - [Image Translation](#Image-Translation)
-  - [Survey](#survey)
-  - [Image Representation Learning](#image-representation-learning)
-  - [Video Representation Learning](#video-representation-learning)
-  - [Geometry](#geometry)
-  - [Audio](#audio)
-  - [Others](#others)
-- [Machine Learning](#machine-learning)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Recommendation Systems](#recommendation-systems)
-- [Robotics](#robotics)  
+  - [2015](#survey)
+  - [2016](#image-representation-learning)
+  - [2017](#video-representation-learning)
+  - [2018](#geometry)
+  - [2019](#audio)
+  - [2020](#others)
+- [Facial Attribute Manipulation](#Facial-Attribute-Manipulation)
+  - [2017](#reinforcement-learning)
+  - [2018](#recommendation-systems)
+- [Generative Models](#Generative-Models)  
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
 - [Talks](#talks)
@@ -121,30 +121,7 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 
 :heavy_check_mark: [PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing] [[Paper]](https://arxiv.org/abs/2007.05892)[[code]](https://github.com/LynnHo/PA-GAN-Tensorflow)
 
-## Gaze Correction and Redirection
-
-:heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
-
-:heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
-
-:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
-
-:heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
-
-:heavy_check_mark: [Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild] [[Paper]](https://arxiv.org/abs/2008.03834)[[Code]](https://github.com/zhangqianhui/GazeAnimation)
-
-
-## AutoML
-
-:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
-
-## Image Animation
-
-:heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
-
-:heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
-
-## Generation High-Quality Images
+## Generative Models
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
 
@@ -178,6 +155,29 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 
 
 :heavy_check_mark: [Adversarial Latent Autoencoders] [[Paper]](https://arxiv.org/abs/2004.04467)[[code]](https://github.com/podgorskiy/ALAE)
+
+## Gaze Correction and Redirection
+
+:heavy_check_mark: [DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation] [[Paper]](https://arxiv.org/abs/1607.07215)[[code]](https://github.com/BlueWinters/DeepWarp)(ECCV 2016)
+
+:heavy_check_mark: [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1903.12530)[[Code]](https://github.com/HzDmS/gaze_redirection)(ICCV 2019)
+
+:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
+
+:heavy_check_mark: [MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning] [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
+
+:heavy_check_mark: [Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild] [[Paper]](https://arxiv.org/abs/2008.03834)[[Code]](https://github.com/zhangqianhui/GazeAnimation)
+
+
+## AutoML
+
+:heavy_check_mark: [AutoGAN: Neural Architecture Search for Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1908.03835)[[Code]](https://github.com/TAMU-VITA/AutoGAN)(ICCV 2019)
+
+## Image Animation
+
+:heavy_check_mark: [Animating arbitrary objects via deep motion transfer] [[Paper]](https://arxiv.org/abs/1812.08861)[[code]](https://github.com/AliaksandrSiarohin/monkey-net)(CVPR 2019)
+
+:heavy_check_mark: [First Order Motion Model for Image Animation] [[Paper]](https://arxiv.org/abs/2003.00196)[[code]](https://github.com/AliaksandrSiarohin/first-order-model)(NIPS 2019)
 
 ## Unclassified
 
