@@ -30,7 +30,7 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 - [Object-Detection](#Object-Detection)
 - [Landmark-Detection](#Landmark-Detection)
 - [Conditional-Adversarial](#Conditional-Adversarial)
-- [Video-Prediction-and-Generation](# Video-Prediction-and-Generation)
+- [Video-Prediction-and-Generation](#Video-Prediction-and-Generation)
 
 - [Talks](#talks)
 - [Thesis](#thesis)
