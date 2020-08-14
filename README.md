@@ -3,38 +3,43 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 
 ## Table of Contents
 - [First Paper](#First-Paper)
-- [Image Translation](#Image-Translation)
-- [Facial Attribute Manipulation](#Facial-Attribute-Manipulation)
-- [Generative Models](#Generative-Models)  
-- [Gaze Correction and Redirection](#Gaze-Correction-and-Redirection)
-- [AutoML](#AutoML)
-- [GAN Theory](#GAN-Theory)
-- [Reinforcement learning](#Reinforcement-learning)
-- [Image Inpainting](#Image-Inpainting)
-- [Scene Generation](#Scene-Generation)
-- [Semi-Supervised Learning](#Semi-Supervised-Learning)
-- [Ensemble](#Ensemble)
-- [Image blending](#Image-blending)
-- [Re-identification](#Re-identification)
-- [Super-Resolution](#Super-Resolution)
-- [De-Occlusion](#De-Occlusion)
-- [Semantic-Segmentation](#Semantic-Segmentation)
-- [Object-Detection](#Object-Detection)
-- [Landmark-Detection](#Landmark-Detection)
-- [Conditional-Adversarial](#Conditional-Adversarial)
-- [Video-Prediction-and-Generation](#Video-Prediction-and-Generation)
-- [Shadow Detection and Removal](#Shadow-Detection-and-Removal)
-- [Makeup](#Makeup)
-- [Reinforcement Learning](#Reinforcement-Learning)
-- [RNN](#RNN)
-- [Medicine](#Medicine)
-- [3D](#3D)
-- [MUSIC](#MUSIC)
-- [Discrete Distributions](#Discrete-Distributions)
-- [Improving Classification And Recong](#Improving-Classification-And-Recong)
-- [Project](#Project)
-- [Blogs](#Blogs)
-- [Tutorial](#Tutorial)
+- [Application]
+  - [Image Translation](#Image-Translation)
+  - [Facial Attribute Manipulation](#Facial-Attribute-Manipulation)
+  - [Gaze Correction and Redirection](#Gaze-Correction-and-Redirection)
+  - [Image Inpainting](#Image-Inpainting)
+  - [Scene Generation](#Scene-Generation)
+  - [Image blending](#Image-blending)
+  - [Re-identification](#Re-identification)
+  - [Super-Resolution](#Super-Resolution)
+  - [De-Occlusion](#De-Occlusion)
+  - [Semantic-Segmentation](#Semantic-Segmentation)
+  - [Object-Detection](#Object-Detection)
+  - [Landmark-Detection](#Landmark-Detection)
+  - [Video-Prediction-and-Generation](#Video-Prediction-and-Generation)
+  - [Shadow Detection and Removal](#Shadow-Detection-and-Removal)
+  - [Makeup](#Makeup)
+  - [3D](#3D)
+  - [Improving Classification And Recong](#Improving-Classification-And-Recong)
+- [Theory]
+  - [Generative Models](#Generative-Models)  
+  - [GAN Theory](#GAN-Theory)
+- [Machine Learning]
+  - [Conditional-Adversarial](#Conditional-Adversarial)
+  - [Semi-Supervised Learning](#Semi-Supervised-Learning)
+  - [Ensemble](#Ensemble)
+- [Others]
+  - [AutoML](#AutoML)
+  - [Reinforcement learning](#Reinforcement-learning)
+  - [Discrete Distributions](#Discrete-Distributions)
+  - [RNN](#RNN)
+- [Interdisciplinary]
+  - [Medicine](#Medicine)
+  - [MUSIC](#MUSIC)
+- [Tutorial]
+  - [Project](#Project)
+  - [Blogs](#Blogs)
+  - [Tutorial](#Tutorial)
 
 ## First paper
 
@@ -478,6 +483,7 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 
 :heavy_check_mark: [C-RNN-GAN: Continuous recurrent neural networks with adversarial training] 
 - [[Paper]](https://arxiv.org/abs/1611.09904)[[Code]](https://github.com/olofmogren/c-rnn-gan)
+
 :heavy_check_mark: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient] 
 - [[Paper]](https://arxiv.org/abs/1609.05473)[[Code]](https://github.com/LantaoYu/SeqGAN)(AAAI 2017)
 
