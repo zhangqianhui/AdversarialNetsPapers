@@ -31,13 +31,18 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 - [Landmark-Detection](#Landmark-Detection)
 - [Conditional-Adversarial](#Conditional-Adversarial)
 - [Video-Prediction-and-Generation](#Video-Prediction-and-Generation)
-- [Shadow Detection and Removal ](#Shadow-Detection-and-Removal)
-
-
-- [Talks](#talks)
-- [Thesis](#thesis)
-- [Blog](#blog)
-
+- [Shadow Detection and Removal](#Shadow-Detection-and-Removal)
+- [Makeup](#Makeup)
+- [Reinforcement Learning](#Reinforcement-Learning)
+- [RNN](#RNN)
+- [Medicine](#Medicine)
+- [3D](#3D)
+- [MUSIC](#MUSIC)
+- [Discrete Distributions](#Discrete-Distributions)
+- [Improving Classification And Recong](#Improving-Classification-And-Recong)
+- [Project](#Project)
+- [Blogs](#Blogs)
+- [Tutorial](#Tutorial)
 
 ## First paper
 
@@ -46,15 +51,20 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 
 ## Image Translation
 
--:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
+:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] 
+- [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
 
-:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
+:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] 
+- [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
 
-:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
+:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] 
+- [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
 
-:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
+:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] 
+- [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
 
-:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
+:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] 
+- [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
 
 :heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
 
@@ -372,7 +382,7 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 
 :heavy_check_mark: [MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions] [[Paper]](https://arxiv.org/abs/1703.10847)[[HOMEPAGE]](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)
 
-## For discrete distributions
+## Discrete distributions
 
 :heavy_check_mark: [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.07983v1)
 
