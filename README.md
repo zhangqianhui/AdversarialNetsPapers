@@ -18,6 +18,19 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
 - [AutoML](#AutoML)
 - [GAN Theory](#GAN-Theory)
 - [Reinforcement learning](#Reinforcement-learning)
+- [Image Inpainting](#Image-Inpainting)
+- [Scene Generation](#Scene-Generation)
+- [Semi-Supervised Learning](#Semi-Supervised-Learning)
+- [Ensemble](#Ensemble)
+- [Image blending](#Image-blending)
+- [Re-identification](#Re-identification)
+- [Super-Resolution](#Super-Resolution)
+- [De-Occlusion](#De-Occlusion)
+- [Semantic-Segmentation](#Semantic-Segmentation)
+- [Object-Detection](#Object-Detection)
+- [Landmark-Detection](#Landmark-Detection)
+- [Conditional-Adversarial](#Conditional-Adversarial)
+- [Video-Prediction-and-Generation](# Video-Prediction-and-Generation)
 
 - [Talks](#talks)
 - [Thesis](#thesis)
@@ -218,6 +231,29 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 
 :heavy_check_mark: [Self-Supervised Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
 
+
+## Image Inpainting
+
+:heavy_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)(CVPR 2017)
+
+:heavy_check_mark: [Context Encoders: Feature Learning by Inpainting] [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/jazzsaxmafia/Inpainting)
+
+:heavy_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
+
+:heavy_check_mark: [Generative face completion] [[Paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit)[[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)(CVPR2017)
+
+:heavy_check_mark: [Globally and Locally Consistent Image Completion] [[MainPAGE]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)(SIGGRAPH 2017)
+
+:heavy_check_mark: [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis] [[Paper]](https://arxiv.org/abs/1611.09969)[[code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)(CVPR 2017)
+
+:heavy_check_mark: [Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](https://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
+
+:heavy_check_mark: [Generative Image Inpainting with Contextual Attention] [[Paper]](https://arxiv.org/abs/1801.07892)[[Project]](http://jiahuiyu.com/deepfill)[[Demo]](http://jiahuiyu.com/deepfill)[[YouTube]](https://youtu.be/xz1ZvcdhgQ0)[[Code]](https://github.com/JiahuiYu/generative_inpainting)(CVPR2018)
+
+:heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
+
+:heavy_check_mark: [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning] [[Paper]](https://arxiv.org/abs/1901.00212)[[Code]](https://github.com/knazeri/edge-connect)
+
 ## Scene Generation
 
 :heavy_check_mark: [a layer-based sequential framework for scene generation with gans] [[Paper]](https://arxiv.org/abs/1902.00671)[[Code]](https://github.com/0zgur0/Seq_Scene_Gen)(AAAI 2019)
@@ -242,30 +278,7 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 
 :heavy_check_mark: [GP-GAN: Towards Realistic High-Resolution Image Blending] [[Paper]](https://arxiv.org/abs/1703.07195)[[Code]](https://github.com/wuhuikai/GP-GAN)
 
-## Image Inpainting
-
-:heavy_check_mark: [Semantic Image Inpainting with Perceptual and Contextual Losses] [[Paper]](https://arxiv.org/abs/1607.07539)[[Code]](https://github.com/bamos/dcgan-completion.tensorflow)(CVPR 2017)
-
-:heavy_check_mark: [Context Encoders: Feature Learning by Inpainting] [[Paper]](https://arxiv.org/abs/1604.07379)[[Code]](https://github.com/jazzsaxmafia/Inpainting)
-
-:heavy_check_mark: [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.06430v1)
-
-:heavy_check_mark: [Generative face completion] [[Paper]](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit)[[code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)(CVPR2017)
-
-:heavy_check_mark: [Globally and Locally Consistent Image Completion] [[MainPAGE]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)(SIGGRAPH 2017)
-
-:heavy_check_mark: [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis] [[Paper]](https://arxiv.org/abs/1611.09969)[[code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)(CVPR 2017)
-
-:heavy_check_mark: [Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](https://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
-
-:heavy_check_mark: [Generative Image Inpainting with Contextual Attention] [[Paper]](https://arxiv.org/abs/1801.07892)[[Project]](http://jiahuiyu.com/deepfill)[[Demo]](http://jiahuiyu.com/deepfill)[[YouTube]](https://youtu.be/xz1ZvcdhgQ0)[[Code]](https://github.com/JiahuiYu/generative_inpainting)(CVPR2018)
-
-:heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
-
-:heavy_check_mark: [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning] [[Paper]](https://arxiv.org/abs/1901.00212)[[Code]](https://github.com/knazeri/edge-connect)
-
 ## Re-identification
-
 
 :heavy_check_mark: [Joint Discriminative and Generative Learning for Person Re-identification] [[Paper]](https://arxiv.org/abs/1904.07223)[[Code]](https://github.com/NVlabs/DG-Net)[[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) (CVPR2019 Oral)
 
@@ -283,6 +296,7 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 :heavy_check_mark: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1809.00219)[[Code]](https://github.com/xinntao/ESRGAN)(ECCV 2018 workshop)
 
 ## De-Occlusion
+
 :heavy_check_mark: [Robust LSTM-Autoencoders for Face De-Occlusion in the Wild] [[Paper]](https://arxiv.org/abs/1612.08534)
 
 ## Semantic Segmentation
@@ -324,12 +338,6 @@ Contrastive Learning for Unpaired Image-to-Image Translation] [[Paper]](http://t
 :heavy_check_mark: [Generating Videos with Scene Dynamics] [[Paper]](https://arxiv.org/abs/1609.02612)[[Web]](http://web.mit.edu/vondrick/tinyvideo/)[[Code]](https://github.com/cvondrick/videogan)
 
 :heavy_check_mark: [MoCoGAN: Decomposing Motion and Content for Video Generation] [[Paper]](https://arxiv.org/abs/1707.04993)
-
-## Texture Synthesis & style transfer
-
-:heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
-
-:heavy_check_mark: [Controllable Artistic Text Style Transfer via Shape-Matching GAN] [[Paper]](https://arxiv.org/abs/1905.01354)[[Code]](https://github.com/TAMU-VITA/ShapeMatchingGAN)(ICCV 2019)
 
 ## Shadow Detection and Removal
 
