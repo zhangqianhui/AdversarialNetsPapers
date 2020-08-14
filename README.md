@@ -6,7 +6,7 @@ Awesome papers about Generative Adversarial Networks. Majority of papers are rel
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by contacting [Mail](zhang163220@gmail.com) or add [pull request](https://github.com/zhangqianhui/AdversarialNetsPapers/pulls)
+Please help contribute this list by contacting [Me][zhang163220@gmail.com] or add [pull request](https://github.com/zhangqianhui/AdversarialNetsPapers/pulls)
 
 
 ## Table of Contents
