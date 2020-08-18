@@ -14,7 +14,9 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 - [Application]
   - [Image Translation](#Image-Translation)
   - [Facial Attribute Manipulation](#Facial-Attribute-Manipulation)
+  - [Face Swap and Reenactment](#Facial-Attribute-Manipulation)
   - [Gaze Correction and Redirection](#Gaze-Correction-and-Redirection)
+  - [Person Image Synthesis](#Facial-Attribute-Manipulation)
   - [Image Inpainting](#Image-Inpainting)
   - [Scene Generation](#Scene-Generation)
   - [Image blending](#Image-blending)
@@ -255,7 +257,7 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 - [[Paper]](https://arxiv.org/pdf/2004.03064.pdf)
 
 :heavy_check_mark: [Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild] 
-- [[Paper]](https://arxiv.org/abs/2008.03834)[[Code]](https://github.com/zhangqianhui/GazeAnimation)
+- [[Paper]](https://arxiv.org/abs/2008.03834)[[Code]](https://github.com/zhangqianhui/GazeAnimation)(ACM MM2020)
 
 
 ## AutoML
