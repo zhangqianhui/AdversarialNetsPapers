@@ -191,6 +191,9 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 :heavy_check_mark: [SSCGAN: Facial Attribute Editing via StyleSkip Connections] 
 - [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600409.pdf)(ECCV 2020)
 
+:heavy_check_mark: [CAFE-GAN: Arbitrary Face Attribute Editingwith Complementary Attention Feature] 
+- [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590511.pdf)(ECCV 2020)
+
 ## Generative Models
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] 
