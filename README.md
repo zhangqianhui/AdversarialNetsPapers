@@ -217,7 +217,7 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 :heavy_check_mark: [Improved Training of Wasserstein GANs] 
 - [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)
 
-:heavy_check_mark: [Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow] 
+:heavy_check_mark: [Boundary Equibilibrium Generative Adversarial Networks] 
 - [[Paper]](https://arxiv.org/abs/1703.10717)[[Code]](https://github.com/artcg/BEGAN)
 
 :heavy_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation] 
