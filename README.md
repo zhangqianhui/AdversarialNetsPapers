@@ -197,7 +197,10 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 ## Generative Models
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] 
-- [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
+- [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR 2015)
+
+:heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] 
+- [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/AaronYALai/Generative_Adversarial_Networks_PyTorch/tree/master/LAPGAN)(NIPS 2015)
 
 :heavy_check_mark: [Generative Adversarial Text to Image Synthesis] 
 - [[Paper]](https://arxiv.org/abs/1605.05396)[[Code]](https://github.com/reedscot/icml2016)[[code]](https://github.com/paarthneekhara/text-to-image)
