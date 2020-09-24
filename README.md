@@ -556,7 +556,7 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 - [[Paper]](https://arxiv.org/pdf/cond-mat/0202112.pdf) (Europhysics Letters 57.1 (2002): 141–147)
 
 :heavy_check_mark: [Learning to protect communications with adversarial neural cryptography]
-- [[Paper]](https://arxiv.org/pdf/1610.06918.pdf) (ICMR 2017)
+- [[Paper]](https://arxiv.org/pdf/1610.06918.pdf) (ICLR 2017 conference submission)
 
 :heavy_check_mark: [Learning Perfectly Secure Cryptography toProtect Communications with AdversarialNeural Cryptography]
 - [[Paper]](https://www.researchgate.net/publication/324727645) (Sensors. 18, 2018, 10.3390/s18051306)
