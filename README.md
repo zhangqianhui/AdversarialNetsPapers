@@ -31,6 +31,7 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
   - [Makeup](#Makeup)
   - [3D](#3D)
   - [Improving Classification And Recong](#Improving-Classification-And-Recong)
+  - [Adversarial Neural Cryptography](#Adversarial-Neural-Cryptography)
 - [Theory]
   - [Generative Models](#Generative-Models)  
   - [GAN Theory](#GAN-Theory)
@@ -548,6 +549,17 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 
 :heavy_check_mark: [GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification] 
 - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231218310749) (Neurocomputing Journal (2018), Elsevier）
+
+## Adversarial Neural Cryptography
+
+:heavy_check_mark: [Secure Exchange of Information by Synchronization of Neural Networks]
+- [[Paper]](https://arxiv.org/pdf/cond-mat/0202112.pdf) (Europhysics Letters 57.1 (2002): 141–147)
+
+:heavy_check_mark: [Learning to protect communications with adversarial neural cryptography]
+- [[Paper]](https://arxiv.org/pdf/1610.06918.pdf) (ICMR 2017)
+
+:heavy_check_mark: [Learning Perfectly Secure Cryptography toProtect Communications with AdversarialNeural Cryptography]
+- [[Paper]](https://www.researchgate.net/publication/324727645) (Sensors. 18, 2018, 10.3390/s18051306)
 
 # Project
 
