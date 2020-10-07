@@ -577,3 +577,5 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 :heavy_check_mark: [2] [[PDF]](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)(NIPS Lecun Slides)
 
 :heavy_check_mark: [3] [[ICCV 2017 Tutorial About GANS]](https://sites.google.com/view/iccv-2017-gans/schedule)
+
+:heavy_check_mark: [3] [[A Mathematical Introduction to Generative Adversarial Nets (GAN)]](https://arxiv.org/abs/2009.00169)
