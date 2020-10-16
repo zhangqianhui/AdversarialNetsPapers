@@ -556,10 +556,10 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 - [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.html) (CVPR 2018)
 
 :heavy_check_mark: [TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation] 
-- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf) (ECCV 2018)
+- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf) (ECCV 2020)
 
 :heavy_check_mark: [TopoGAN: A Topology-Aware Generative Adversarial Network] 
-- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf) (ECCV 2018)
+- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf) (ECCV 2020)
 
 # Project
 
