@@ -480,6 +480,9 @@ Please help contribute this list by contacting [Me][zhang163220@gmail.com] or ad
 :heavy_check_mark: [MoCoGAN: Decomposing Motion and Content for Video Generation] 
 - [[Paper]](https://arxiv.org/abs/1707.04993)
 
+:heavy_check_mark: [Kinetic-GAN: Generative Adversarial Graph Convolutional Networks for Human Action Synthesis] 
+- [[Paper]](https://arxiv.org/abs/2110.11191)[[Code]](https://github.com/DegardinBruno/Kinetic-GAN)(WACV 2022)
+
 ## Shadow Detection and Removal
 
 :heavy_check_mark: [ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal] 
