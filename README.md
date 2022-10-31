@@ -1,13 +1,5 @@
 # AdversarialNetsPapers
-Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation. 
-
-## Contributing
-<p align="center">
-  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
-</p>
-
-Please help contribute this list by contacting [Me][zhang163220@gmail.com] or add [pull request](https://github.com/zhangqianhui/AdversarialNetsPapers/pulls)
-
+A collection of resources and papers on Generation Adversarial Networks.
 
 ## Table of Contents
 - [First Paper](#First-Paper)
