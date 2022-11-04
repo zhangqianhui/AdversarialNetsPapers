@@ -23,6 +23,7 @@ A collection of resources and papers on Generation Adversarial Networks.
   - [Makeup](#Makeup)
   - [3D](#3D)
   - [Improving Classification And Recong](#Improving-Classification-And-Recong)
+  - [Road Segmentation](#Road-Segmentation)
 - [Theory]
   - [Generative Models](#Generative-Models)  
   - [GAN Theory](#GAN-Theory)
@@ -540,6 +541,17 @@ A collection of resources and papers on Generation Adversarial Networks.
 
 :heavy_check_mark: [GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification] 
 - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231218310749) (Neurocomputing Journal (2018), Elsevier）
+
+## Road Segmentation
+
+:heavy_check_mark: [Matching adversarial networks] 
+- [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.html) (CVPR 2018)
+
+:heavy_check_mark: [TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation] 
+- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf) (ECCV 2020)
+
+:heavy_check_mark: [TopoGAN: A Topology-Aware Generative Adversarial Network] 
+- [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf) (ECCV 2020)
 
 # Project
 
